@@ -53,7 +53,7 @@ Setiap modul dapat dijalankan secara mandiri dan disesuaikan untuk memproses dat
     ```
 
 ## 📤 Output
-Setiap program akan menghasilkan data fitur dalam format `.csv` atau `.npy` yang bisa digunakan untuk tahap klasifikasi atau visualisasi lanjutan.
+GUI akan menampilkan hasil ekstraksi
 
 ---
 
