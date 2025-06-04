@@ -35,10 +35,13 @@ Setiap modul dapat dijalankan secara mandiri dan disesuaikan untuk memproses dat
 - Dikelompokkan berdasarkan kategori sampah
 
 ## 🧰 Teknologi yang Digunakan
-- Python
-- OpenCV / PIL
-- NumPy
-- Scikit-image / skimage
+- Python 3.x
+- [PyQt5](https://pypi.org/project/PyQt5/) – GUI
+- [OpenCV](https://opencv.org/) – pengolahan citra
+- [NumPy](https://numpy.org/) – representasi data
+- [scikit-image](https://scikit-image.org/) – analisis tekstur
+- [pandas](https://pandas.pydata.org/) – ekspor data `.csv`
+- matplotlib – visualisasi sederhana (opsional)
 
 ## ▶️ Cara Menjalankan
 1. Pastikan semua dependensi telah terinstall:
@@ -53,7 +56,7 @@ Setiap modul dapat dijalankan secara mandiri dan disesuaikan untuk memproses dat
     ```
 
 ## 📤 Output
-GUI akan menampilkan hasil ekstraksi
+GUI akan menampilkan hasil ekstraksi dan klasifikasi tiap sampah.
 
 ---
 
