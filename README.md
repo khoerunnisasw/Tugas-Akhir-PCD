@@ -1,6 +1,11 @@
 # 🧪 Ekstraksi Fitur Citra untuk Klasifikasi Sampah
 
-Proyek ini merupakan implementasi program ekstraksi fitur dari citra RGB untuk keperluan klasifikasi objek sampah. Ekstraksi dilakukan berdasarkan tiga jenis fitur utama: **🎨 warna**, **📐 bentuk**, dan **🧵 tekstur**. Setidaknya terdapat **60 citra RGB** yang digunakan sebagai dataset dengan objek berupa berbagai jenis sampah.
+Anggota Kelompok:
+- Khoerunnisa SOmawijaya (152023096)
+- Amanda Pramitha RAmadhani (152023105)
+- Shafa Gusti Faradila (152023110)
+
+Proyek ini merupakan implementasi program ekstraksi fitur dari citra RGB untuk keperluan klasifikasi objek sampah. Ekstraksi dilakukan berdasarkan tiga jenis fitur utama: **warna**, **bentuk**, dan **tekstur**. Setidaknya terdapat **60 citra RGB** yang digunakan sebagai dataset dengan objek berupa berbagai jenis sampah.
 
 ## 🎯 Tujuan
 Mengembangkan tiga program ekstraksi fitur yang dapat mengambil informasi:
