@@ -1,6 +1,15 @@
 # 🧪 Ekstraksi Fitur Citra untuk Klasifikasi Sampah
 
+<<<<<<< HEAD
 Proyek ini merupakan implementasi program ekstraksi fitur dari citra RGB untuk keperluan klasifikasi objek sampah. Ekstraksi dilakukan berdasarkan tiga jenis fitur utama: **🎨 warna**, **📐 bentuk**, dan **🧵 tekstur**. Setidaknya terdapat **60 citra RGB** yang digunakan sebagai dataset dengan objek berupa berbagai jenis sampah.
+=======
+Anggota Kelompok:
+- Khoerunnisa Somawijaya (152023096)
+- Amanda Pramitha Ramadhani (152023105)
+- Shafa Gusti Faradila (152023110)
+
+Proyek ini merupakan implementasi program ekstraksi fitur dari citra RGB untuk keperluan klasifikasi objek sampah. Ekstraksi dilakukan berdasarkan tiga jenis fitur utama: **warna**, **bentuk**, dan **tekstur**. Setidaknya terdapat **60 citra RGB** yang digunakan sebagai dataset dengan objek berupa berbagai jenis sampah.
+>>>>>>> 8a42db424301c83dda50e67596933fbcb9c9845f
 
 ## 🎯 Tujuan
 Mengembangkan tiga program ekstraksi fitur yang dapat mengambil informasi:
@@ -30,10 +39,20 @@ Setiap modul dapat dijalankan secara mandiri dan disesuaikan untuk memproses dat
 - Dikelompokkan berdasarkan kategori sampah
 
 ## 🧰 Teknologi yang Digunakan
+<<<<<<< HEAD
 - Python
 - OpenCV / PIL
 - NumPy
 - Scikit-image / skimage
+=======
+- Python 3.x
+- [PyQt5](https://pypi.org/project/PyQt5/) – GUI
+- [OpenCV](https://opencv.org/) – pengolahan citra
+- [NumPy](https://numpy.org/) – representasi data
+- [scikit-image](https://scikit-image.org/) – analisis tekstur
+- [pandas](https://pandas.pydata.org/) – ekspor data `.csv`
+- matplotlib – visualisasi sederhana (opsional)
+>>>>>>> 8a42db424301c83dda50e67596933fbcb9c9845f
 
 ## ▶️ Cara Menjalankan
 1. Pastikan semua dependensi telah terinstall:
@@ -48,7 +67,11 @@ Setiap modul dapat dijalankan secara mandiri dan disesuaikan untuk memproses dat
     ```
 
 ## 📤 Output
+<<<<<<< HEAD
 Setiap program akan menghasilkan data fitur dalam format `.csv` atau `.npy` yang bisa digunakan untuk tahap klasifikasi atau visualisasi lanjutan.
+=======
+GUI akan menampilkan hasil ekstraksi dan klasifikasi tiap sampah.
+>>>>>>> 8a42db424301c83dda50e67596933fbcb9c9845f
 
 ---
 
