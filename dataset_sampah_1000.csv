@@ -1,0 +1,1001 @@
+No,Keterangan,Bentuk,Tekstur,Organik,Non-Organik,Warna Dominan,Kondisi,Berat (gram),Sumber,Tingkat Bahaya,Pengolahan
+1,Styrofoam bekas makanan,Pipih,Halus,0,1,Putih,Kering,443,Restoran,Rendah,Tidak Dapat Diolah
+2,Daun kering,Melengkung,Lembek,1,0,Hijau,Kering,267,Sekolah,Tinggi,Biogas
+3,Kulit pisang,Kotak,Tajam,1,0,Hitam,Basah,69,Rumah Tangga,Rendah,Pakan Ternak
+4,Kantong plastik,Pipih,Halus,0,1,Hijau,Kering,21,Restoran,Rendah,Daur Ulang
+5,Sisa makanan,Kotak,Tajam,1,0,Merah,Kering,282,Pertanian,Sedang,Pakan Ternak
+6,Ranting pohon,Kotak,Kasar,1,0,Merah,Kering,32,Sekolah,Rendah,Kompos
+7,Botol plastik,Kotak,Tajam,0,1,Putih,Basah,467,Rumah Tangga,Rendah,Tidak Dapat Diolah
+8,Paku berkarat,Tidak beraturan,Tajam,0,1,Putih,Basah,273,Sekolah,Sedang,Kerajinan
+9,Kulit pisang,Pipih,Lembek,1,0,Hijau,Basah,97,Rumah Tangga,Tinggi,Kompos
+10,Kardus bekas,Bulat,Kasar,0,1,Transparan,Kering,485,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+11,Tulang ayam,Pipih,Lembek,1,0,Coklat,Basah,190,Sekolah,Sedang,Kompos
+12,Daun kering,Melengkung,Halus,1,0,Merah,Basah,88,Sekolah,Rendah,Kompos
+13,Kaleng cat,Tidak beraturan,Tajam,0,1,Kuning,Basah,448,Pertanian,Sedang,Daur Ulang
+14,Kaca pecah,Bulat,Kasar,0,1,Silver,Basah,430,Industri,Rendah,Daur Ulang
+15,Kantong plastik,Kotak,Lembek,0,1,Silver,Kering,299,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+16,Sedotan plastik,Kotak,Kasar,0,1,Hijau,Basah,215,Pertanian,Tinggi,Kerajinan
+17,Sisa buah,Silinder,Keras,1,0,Coklat,Basah,105,Restoran,Tinggi,Pakan Ternak
+18,Kulit pisang,Kotak,Halus,1,0,Kuning,Basah,357,Industri,Tinggi,Kompos
+19,Kaleng minuman,Pipih,Keras,0,1,Merah,Kering,156,Sekolah,Rendah,Daur Ulang
+20,Tulang ayam,Tidak beraturan,Lembek,1,0,Putih,Basah,170,Rumah Tangga,Sedang,Kompos
+21,Sisa sayuran,Melengkung,Lembek,1,0,Silver,Kering,231,Sekolah,Sedang,Biogas
+22,Styrofoam bekas makanan,Silinder,Kasar,0,1,Silver,Kering,172,Pasar,Tinggi,Kerajinan
+23,Ban bekas,Kotak,Kasar,0,1,Silver,Basah,231,Pertanian,Sedang,Kerajinan
+24,Kulit mangga,Tidak beraturan,Keras,1,0,Kuning,Basah,70,Industri,Sedang,Kompos
+25,Kaleng minuman,Bulat,Keras,0,1,Putih,Basah,236,Restoran,Rendah,Kerajinan
+26,Styrofoam bekas makanan,Pipih,Tajam,0,1,Coklat,Basah,143,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+27,Kaleng minuman,Bulat,Lembek,0,1,Hijau,Basah,125,Pasar,Sedang,Tidak Dapat Diolah
+28,Paku berkarat,Melengkung,Lembek,0,1,Transparan,Basah,139,Pasar,Tinggi,Kerajinan
+29,Paku berkarat,Melengkung,Lembek,0,1,Silver,Kering,17,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+30,Sisa makanan,Silinder,Kasar,1,0,Hijau,Kering,44,Sekolah,Tinggi,Kompos
+31,Sisa buah,Bulat,Halus,1,0,Transparan,Kering,375,Pasar,Tinggi,Pakan Ternak
+32,Kaleng minuman,Bulat,Kasar,0,1,Hitam,Basah,363,Restoran,Tinggi,Daur Ulang
+33,Kantong plastik,Bulat,Lembek,0,1,Merah,Kering,196,Restoran,Rendah,Tidak Dapat Diolah
+34,Kulit pisang,Pipih,Keras,1,0,Hijau,Kering,119,Rumah Tangga,Sedang,Pakan Ternak
+35,Kardus bekas,Melengkung,Tajam,0,1,Merah,Basah,23,Rumah Tangga,Rendah,Tidak Dapat Diolah
+36,Sisa makanan,Melengkung,Halus,1,0,Kuning,Kering,22,Pasar,Rendah,Pakan Ternak
+37,Kaleng cat,Pipih,Kasar,0,1,Kuning,Kering,411,Pasar,Rendah,Daur Ulang
+38,Kulit pisang,Pipih,Lembek,1,0,Coklat,Kering,207,Pertanian,Tinggi,Biogas
+39,Sisa sayuran,Kotak,Keras,1,0,Hitam,Kering,404,Pertanian,Sedang,Pakan Ternak
+40,Tulang ayam,Melengkung,Tajam,1,0,Hijau,Basah,218,Industri,Rendah,Pakan Ternak
+41,Kulit mangga,Bulat,Halus,1,0,Silver,Basah,417,Pasar,Rendah,Pakan Ternak
+42,Daun kering,Tidak beraturan,Keras,1,0,Hijau,Basah,429,Restoran,Sedang,Pakan Ternak
+43,Ban bekas,Kotak,Keras,0,1,Transparan,Kering,139,Rumah Tangga,Sedang,Kerajinan
+44,Sisa makanan,Kotak,Kasar,1,0,Transparan,Basah,358,Pertanian,Rendah,Pakan Ternak
+45,Kulit mangga,Silinder,Lembek,1,0,Hijau,Basah,130,Industri,Rendah,Pakan Ternak
+46,Kaleng cat,Melengkung,Kasar,0,1,Hijau,Kering,315,Rumah Tangga,Sedang,Kerajinan
+47,Kaleng minuman,Bulat,Kasar,0,1,Hitam,Kering,284,Industri,Tinggi,Tidak Dapat Diolah
+48,Tulang ayam,Pipih,Tajam,1,0,Transparan,Kering,454,Rumah Tangga,Rendah,Pakan Ternak
+49,Sisa buah,Bulat,Halus,1,0,Transparan,Basah,47,Pasar,Sedang,Pakan Ternak
+50,Kaca pecah,Tidak beraturan,Kasar,0,1,Hijau,Kering,69,Industri,Sedang,Daur Ulang
+51,Sisa sayuran,Melengkung,Lembek,1,0,Hitam,Basah,306,Pasar,Sedang,Biogas
+52,Kantong plastik,Tidak beraturan,Keras,0,1,Hijau,Kering,151,Pertanian,Tinggi,Tidak Dapat Diolah
+53,Paku berkarat,Pipih,Halus,0,1,Transparan,Basah,87,Industri,Rendah,Daur Ulang
+54,Kulit mangga,Pipih,Kasar,1,0,Putih,Kering,263,Pasar,Tinggi,Kompos
+55,Sedotan plastik,Pipih,Halus,0,1,Silver,Kering,270,Pasar,Tinggi,Daur Ulang
+56,Paku berkarat,Silinder,Halus,0,1,Transparan,Basah,183,Rumah Tangga,Sedang,Tidak Dapat Diolah
+57,Botol plastik,Pipih,Lembek,0,1,Silver,Kering,369,Sekolah,Rendah,Daur Ulang
+58,Sedotan plastik,Pipih,Lembek,0,1,Silver,Kering,380,Pasar,Tinggi,Kerajinan
+59,Kaleng minuman,Bulat,Kasar,0,1,Transparan,Basah,191,Pertanian,Rendah,Daur Ulang
+60,Kaleng cat,Tidak beraturan,Tajam,0,1,Merah,Basah,257,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+61,Sedotan plastik,Tidak beraturan,Lembek,0,1,Putih,Basah,287,Pasar,Sedang,Daur Ulang
+62,Kulit bawang,Silinder,Tajam,1,0,Silver,Kering,305,Industri,Tinggi,Kompos
+63,Kantong plastik,Pipih,Keras,0,1,Coklat,Basah,475,Restoran,Sedang,Kerajinan
+64,Tulang ayam,Melengkung,Lembek,1,0,Coklat,Basah,6,Pasar,Sedang,Kompos
+65,Sisa sayuran,Melengkung,Tajam,1,0,Hitam,Kering,210,Sekolah,Tinggi,Kompos
+66,Ban bekas,Pipih,Tajam,0,1,Transparan,Kering,243,Industri,Sedang,Tidak Dapat Diolah
+67,Kaleng minuman,Bulat,Kasar,0,1,Merah,Kering,303,Industri,Rendah,Tidak Dapat Diolah
+68,Kardus bekas,Melengkung,Lembek,0,1,Hijau,Kering,457,Industri,Sedang,Tidak Dapat Diolah
+69,Kantong plastik,Melengkung,Keras,0,1,Putih,Basah,175,Rumah Tangga,Rendah,Tidak Dapat Diolah
+70,Botol plastik,Bulat,Kasar,0,1,Silver,Basah,65,Sekolah,Rendah,Tidak Dapat Diolah
+71,Sedotan plastik,Silinder,Tajam,0,1,Merah,Basah,138,Industri,Rendah,Daur Ulang
+72,Rumput,Bulat,Tajam,1,0,Hitam,Kering,13,Rumah Tangga,Rendah,Kompos
+73,Ranting pohon,Silinder,Keras,1,0,Transparan,Kering,371,Pertanian,Tinggi,Biogas
+74,Sisa makanan,Melengkung,Kasar,1,0,Hijau,Basah,298,Industri,Sedang,Pakan Ternak
+75,Sisa sayuran,Melengkung,Kasar,1,0,Kuning,Kering,85,Restoran,Rendah,Biogas
+76,Kulit bawang,Bulat,Halus,1,0,Hitam,Kering,352,Rumah Tangga,Tinggi,Pakan Ternak
+77,Sisa buah,Kotak,Lembek,1,0,Merah,Kering,404,Industri,Sedang,Biogas
+78,Ban bekas,Bulat,Halus,0,1,Putih,Kering,152,Restoran,Rendah,Kerajinan
+79,Kantong plastik,Kotak,Halus,0,1,Putih,Basah,156,Pertanian,Sedang,Kerajinan
+80,Tulang ayam,Bulat,Tajam,1,0,Putih,Basah,443,Industri,Sedang,Biogas
+81,Sisa makanan,Tidak beraturan,Tajam,1,0,Merah,Kering,302,Sekolah,Rendah,Biogas
+82,Kulit pisang,Tidak beraturan,Tajam,1,0,Hitam,Basah,309,Sekolah,Tinggi,Kompos
+83,Ranting pohon,Pipih,Tajam,1,0,Transparan,Kering,93,Restoran,Rendah,Kompos
+84,Styrofoam bekas makanan,Melengkung,Kasar,0,1,Merah,Kering,464,Rumah Tangga,Sedang,Tidak Dapat Diolah
+85,Kaleng cat,Silinder,Halus,0,1,Coklat,Kering,120,Restoran,Tinggi,Tidak Dapat Diolah
+86,Kaca pecah,Kotak,Kasar,0,1,Transparan,Kering,293,Industri,Sedang,Kerajinan
+87,Sisa sayuran,Silinder,Halus,1,0,Merah,Kering,258,Pertanian,Tinggi,Biogas
+88,Styrofoam bekas makanan,Bulat,Halus,0,1,Coklat,Basah,108,Rumah Tangga,Rendah,Daur Ulang
+89,Rumput,Pipih,Tajam,1,0,Transparan,Kering,137,Sekolah,Rendah,Pakan Ternak
+90,Kaca pecah,Bulat,Lembek,0,1,Hitam,Kering,262,Pasar,Sedang,Tidak Dapat Diolah
+91,Kulit bawang,Tidak beraturan,Kasar,1,0,Coklat,Kering,286,Industri,Rendah,Kompos
+92,Kaleng minuman,Melengkung,Tajam,0,1,Coklat,Kering,281,Pertanian,Sedang,Tidak Dapat Diolah
+93,Ban bekas,Bulat,Keras,0,1,Transparan,Basah,248,Sekolah,Tinggi,Kerajinan
+94,Rumput,Pipih,Kasar,1,0,Silver,Kering,12,Pertanian,Sedang,Kompos
+95,Rumput,Kotak,Halus,1,0,Hitam,Basah,202,Restoran,Tinggi,Pakan Ternak
+96,Ranting pohon,Kotak,Keras,1,0,Kuning,Basah,459,Industri,Tinggi,Biogas
+97,Kardus bekas,Tidak beraturan,Keras,0,1,Putih,Basah,53,Pasar,Sedang,Daur Ulang
+98,Kaca pecah,Melengkung,Tajam,0,1,Putih,Basah,8,Pasar,Rendah,Tidak Dapat Diolah
+99,Sisa makanan,Tidak beraturan,Keras,1,0,Putih,Basah,175,Pertanian,Rendah,Kompos
+100,Ranting pohon,Melengkung,Tajam,1,0,Merah,Kering,197,Restoran,Rendah,Pakan Ternak
+101,Kulit mangga,Pipih,Kasar,1,0,Hijau,Kering,269,Rumah Tangga,Rendah,Kompos
+102,Tulang ayam,Melengkung,Kasar,1,0,Transparan,Basah,205,Pertanian,Tinggi,Pakan Ternak
+103,Sisa buah,Bulat,Halus,1,0,Merah,Basah,421,Sekolah,Sedang,Pakan Ternak
+104,Botol plastik,Melengkung,Keras,0,1,Hitam,Basah,373,Sekolah,Rendah,Tidak Dapat Diolah
+105,Paku berkarat,Bulat,Tajam,0,1,Silver,Kering,65,Pertanian,Tinggi,Kerajinan
+106,Botol plastik,Silinder,Halus,0,1,Kuning,Basah,324,Restoran,Rendah,Kerajinan
+107,Kaleng cat,Tidak beraturan,Lembek,0,1,Kuning,Basah,233,Restoran,Sedang,Daur Ulang
+108,Tulang ayam,Melengkung,Halus,1,0,Hijau,Kering,122,Sekolah,Tinggi,Kompos
+109,Ban bekas,Tidak beraturan,Tajam,0,1,Putih,Basah,163,Restoran,Sedang,Kerajinan
+110,Botol plastik,Silinder,Keras,0,1,Hijau,Basah,125,Industri,Rendah,Daur Ulang
+111,Kardus bekas,Bulat,Halus,0,1,Transparan,Basah,199,Restoran,Sedang,Kerajinan
+112,Ranting pohon,Melengkung,Kasar,1,0,Silver,Kering,114,Pertanian,Sedang,Kompos
+113,Kaleng cat,Silinder,Lembek,0,1,Kuning,Basah,95,Sekolah,Tinggi,Tidak Dapat Diolah
+114,Sisa makanan,Silinder,Kasar,1,0,Putih,Basah,49,Restoran,Tinggi,Biogas
+115,Kulit pisang,Bulat,Tajam,1,0,Merah,Kering,487,Pasar,Tinggi,Kompos
+116,Kulit mangga,Tidak beraturan,Kasar,1,0,Kuning,Kering,285,Pertanian,Sedang,Kompos
+117,Rumput,Melengkung,Kasar,1,0,Silver,Basah,252,Pasar,Rendah,Pakan Ternak
+118,Rumput,Melengkung,Tajam,1,0,Silver,Basah,407,Rumah Tangga,Rendah,Kompos
+119,Ban bekas,Silinder,Lembek,0,1,Putih,Basah,208,Pertanian,Sedang,Kerajinan
+120,Kaca pecah,Kotak,Halus,0,1,Putih,Kering,13,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+121,Sisa sayuran,Pipih,Kasar,1,0,Transparan,Kering,178,Sekolah,Sedang,Kompos
+122,Kardus bekas,Bulat,Kasar,0,1,Hijau,Basah,25,Pasar,Rendah,Kerajinan
+123,Daun kering,Bulat,Keras,1,0,Hitam,Kering,275,Sekolah,Rendah,Kompos
+124,Kaca pecah,Tidak beraturan,Tajam,0,1,Hitam,Kering,441,Restoran,Tinggi,Daur Ulang
+125,Kaleng minuman,Silinder,Lembek,0,1,Hijau,Basah,376,Industri,Tinggi,Kerajinan
+126,Styrofoam bekas makanan,Pipih,Halus,0,1,Hitam,Basah,424,Pasar,Rendah,Daur Ulang
+127,Tulang ayam,Tidak beraturan,Keras,1,0,Silver,Basah,172,Restoran,Rendah,Pakan Ternak
+128,Kaleng minuman,Bulat,Tajam,0,1,Merah,Kering,29,Pertanian,Rendah,Kerajinan
+129,Sisa makanan,Pipih,Kasar,1,0,Hijau,Kering,299,Pasar,Sedang,Biogas
+130,Kardus bekas,Pipih,Halus,0,1,Hitam,Kering,420,Sekolah,Tinggi,Daur Ulang
+131,Ranting pohon,Tidak beraturan,Halus,1,0,Silver,Basah,225,Pasar,Sedang,Biogas
+132,Paku berkarat,Melengkung,Lembek,0,1,Kuning,Basah,281,Sekolah,Sedang,Kerajinan
+133,Daun kering,Tidak beraturan,Tajam,1,0,Transparan,Kering,19,Sekolah,Sedang,Kompos
+134,Tulang ayam,Pipih,Lembek,1,0,Hitam,Kering,331,Pertanian,Sedang,Pakan Ternak
+135,Sisa makanan,Tidak beraturan,Keras,1,0,Silver,Basah,403,Industri,Tinggi,Pakan Ternak
+136,Ban bekas,Pipih,Kasar,0,1,Transparan,Kering,449,Restoran,Rendah,Tidak Dapat Diolah
+137,Botol plastik,Kotak,Keras,0,1,Hitam,Basah,315,Rumah Tangga,Sedang,Tidak Dapat Diolah
+138,Paku berkarat,Silinder,Kasar,0,1,Hitam,Basah,260,Pertanian,Sedang,Daur Ulang
+139,Styrofoam bekas makanan,Silinder,Keras,0,1,Silver,Basah,386,Restoran,Rendah,Kerajinan
+140,Ranting pohon,Melengkung,Kasar,1,0,Coklat,Basah,113,Restoran,Rendah,Pakan Ternak
+141,Botol plastik,Kotak,Tajam,0,1,Hijau,Basah,17,Pasar,Rendah,Kerajinan
+142,Botol plastik,Pipih,Halus,0,1,Coklat,Kering,123,Industri,Tinggi,Daur Ulang
+143,Ranting pohon,Tidak beraturan,Kasar,1,0,Silver,Basah,52,Sekolah,Sedang,Pakan Ternak
+144,Kaleng minuman,Tidak beraturan,Tajam,0,1,Coklat,Kering,83,Sekolah,Rendah,Tidak Dapat Diolah
+145,Kaleng cat,Bulat,Keras,0,1,Hitam,Basah,328,Rumah Tangga,Tinggi,Kerajinan
+146,Daun kering,Pipih,Keras,1,0,Coklat,Basah,46,Rumah Tangga,Sedang,Kompos
+147,Kaca pecah,Melengkung,Lembek,0,1,Hitam,Kering,72,Rumah Tangga,Rendah,Tidak Dapat Diolah
+148,Styrofoam bekas makanan,Pipih,Tajam,0,1,Silver,Basah,214,Pertanian,Tinggi,Daur Ulang
+149,Botol plastik,Bulat,Keras,0,1,Transparan,Kering,94,Pasar,Tinggi,Kerajinan
+150,Kaleng cat,Kotak,Tajam,0,1,Kuning,Basah,288,Rumah Tangga,Rendah,Daur Ulang
+151,Ranting pohon,Silinder,Keras,1,0,Merah,Basah,361,Pertanian,Rendah,Biogas
+152,Sedotan plastik,Melengkung,Tajam,0,1,Kuning,Kering,480,Sekolah,Rendah,Daur Ulang
+153,Kantong plastik,Bulat,Kasar,0,1,Silver,Kering,163,Sekolah,Sedang,Daur Ulang
+154,Kardus bekas,Pipih,Tajam,0,1,Kuning,Kering,75,Pasar,Sedang,Tidak Dapat Diolah
+155,Sisa makanan,Kotak,Halus,1,0,Putih,Kering,215,Pasar,Tinggi,Biogas
+156,Sisa buah,Kotak,Lembek,1,0,Coklat,Kering,98,Sekolah,Rendah,Kompos
+157,Kaca pecah,Silinder,Tajam,0,1,Merah,Basah,161,Industri,Tinggi,Tidak Dapat Diolah
+158,Paku berkarat,Bulat,Kasar,0,1,Hijau,Basah,127,Pasar,Sedang,Kerajinan
+159,Botol plastik,Silinder,Tajam,0,1,Silver,Basah,157,Sekolah,Rendah,Daur Ulang
+160,Sedotan plastik,Pipih,Kasar,0,1,Merah,Kering,479,Rumah Tangga,Tinggi,Daur Ulang
+161,Daun kering,Silinder,Halus,1,0,Silver,Kering,46,Sekolah,Tinggi,Biogas
+162,Kantong plastik,Pipih,Halus,0,1,Transparan,Kering,86,Restoran,Tinggi,Kerajinan
+163,Kulit bawang,Melengkung,Tajam,1,0,Hitam,Basah,278,Restoran,Tinggi,Kompos
+164,Paku berkarat,Kotak,Halus,0,1,Silver,Kering,194,Rumah Tangga,Rendah,Kerajinan
+165,Kulit pisang,Kotak,Keras,1,0,Hitam,Kering,182,Pasar,Rendah,Pakan Ternak
+166,Kulit bawang,Kotak,Tajam,1,0,Hitam,Kering,5,Restoran,Rendah,Pakan Ternak
+167,Sisa buah,Tidak beraturan,Kasar,1,0,Coklat,Basah,176,Pasar,Tinggi,Kompos
+168,Paku berkarat,Silinder,Tajam,0,1,Silver,Basah,305,Industri,Rendah,Kerajinan
+169,Styrofoam bekas makanan,Silinder,Kasar,0,1,Merah,Basah,163,Restoran,Tinggi,Tidak Dapat Diolah
+170,Sisa buah,Kotak,Halus,1,0,Hitam,Basah,389,Sekolah,Tinggi,Kompos
+171,Kaca pecah,Silinder,Kasar,0,1,Merah,Kering,166,Sekolah,Sedang,Daur Ulang
+172,Sisa buah,Silinder,Keras,1,0,Hitam,Basah,323,Pasar,Rendah,Pakan Ternak
+173,Ban bekas,Pipih,Keras,0,1,Merah,Basah,345,Industri,Rendah,Tidak Dapat Diolah
+174,Paku berkarat,Tidak beraturan,Kasar,0,1,Coklat,Kering,322,Sekolah,Sedang,Tidak Dapat Diolah
+175,Botol plastik,Melengkung,Keras,0,1,Hijau,Basah,156,Pasar,Rendah,Tidak Dapat Diolah
+176,Kaleng cat,Kotak,Keras,0,1,Putih,Basah,479,Restoran,Sedang,Daur Ulang
+177,Ranting pohon,Bulat,Keras,1,0,Transparan,Basah,489,Industri,Sedang,Kompos
+178,Paku berkarat,Kotak,Halus,0,1,Kuning,Basah,458,Rumah Tangga,Tinggi,Kerajinan
+179,Kulit bawang,Bulat,Kasar,1,0,Putih,Kering,81,Sekolah,Rendah,Kompos
+180,Paku berkarat,Tidak beraturan,Tajam,0,1,Merah,Basah,195,Rumah Tangga,Rendah,Tidak Dapat Diolah
+181,Kaleng cat,Melengkung,Tajam,0,1,Transparan,Basah,292,Rumah Tangga,Sedang,Kerajinan
+182,Sisa sayuran,Melengkung,Kasar,1,0,Silver,Kering,381,Restoran,Sedang,Biogas
+183,Tulang ayam,Tidak beraturan,Lembek,1,0,Kuning,Kering,101,Rumah Tangga,Sedang,Biogas
+184,Sisa sayuran,Kotak,Tajam,1,0,Coklat,Basah,368,Pertanian,Rendah,Pakan Ternak
+185,Rumput,Bulat,Tajam,1,0,Merah,Kering,394,Sekolah,Sedang,Kompos
+186,Kulit bawang,Silinder,Halus,1,0,Hijau,Kering,66,Pertanian,Sedang,Kompos
+187,Kardus bekas,Kotak,Lembek,0,1,Hitam,Kering,229,Sekolah,Rendah,Daur Ulang
+188,Ban bekas,Silinder,Kasar,0,1,Silver,Kering,341,Rumah Tangga,Rendah,Tidak Dapat Diolah
+189,Kaca pecah,Silinder,Lembek,0,1,Kuning,Basah,227,Industri,Tinggi,Kerajinan
+190,Kardus bekas,Bulat,Lembek,0,1,Transparan,Basah,13,Rumah Tangga,Tinggi,Daur Ulang
+191,Kardus bekas,Melengkung,Halus,0,1,Coklat,Basah,76,Pertanian,Rendah,Tidak Dapat Diolah
+192,Sedotan plastik,Melengkung,Lembek,0,1,Merah,Kering,155,Sekolah,Tinggi,Daur Ulang
+193,Kardus bekas,Pipih,Lembek,0,1,Putih,Basah,172,Industri,Sedang,Kerajinan
+194,Rumput,Melengkung,Tajam,1,0,Transparan,Basah,40,Restoran,Tinggi,Biogas
+195,Kaleng cat,Kotak,Halus,0,1,Hitam,Basah,162,Pasar,Rendah,Daur Ulang
+196,Daun kering,Bulat,Kasar,1,0,Putih,Kering,307,Restoran,Tinggi,Pakan Ternak
+197,Kantong plastik,Kotak,Keras,0,1,Putih,Kering,143,Pasar,Tinggi,Tidak Dapat Diolah
+198,Kaleng cat,Silinder,Tajam,0,1,Coklat,Basah,307,Restoran,Tinggi,Kerajinan
+199,Daun kering,Silinder,Halus,1,0,Transparan,Kering,271,Pertanian,Rendah,Kompos
+200,Kulit pisang,Silinder,Lembek,1,0,Transparan,Basah,314,Sekolah,Sedang,Kompos
+201,Daun kering,Kotak,Tajam,1,0,Merah,Basah,339,Pertanian,Tinggi,Pakan Ternak
+202,Kaleng cat,Kotak,Halus,0,1,Hijau,Basah,90,Rumah Tangga,Sedang,Kerajinan
+203,Kaleng minuman,Kotak,Lembek,0,1,Hijau,Kering,386,Pertanian,Tinggi,Kerajinan
+204,Sedotan plastik,Tidak beraturan,Lembek,0,1,Silver,Basah,90,Pertanian,Rendah,Tidak Dapat Diolah
+205,Kulit mangga,Tidak beraturan,Lembek,1,0,Putih,Kering,432,Pasar,Rendah,Kompos
+206,Tulang ayam,Pipih,Kasar,1,0,Coklat,Kering,204,Restoran,Tinggi,Pakan Ternak
+207,Kardus bekas,Tidak beraturan,Tajam,0,1,Hijau,Basah,318,Sekolah,Tinggi,Kerajinan
+208,Kulit mangga,Pipih,Lembek,1,0,Silver,Basah,352,Sekolah,Tinggi,Biogas
+209,Paku berkarat,Kotak,Halus,0,1,Coklat,Kering,444,Rumah Tangga,Tinggi,Daur Ulang
+210,Kaleng minuman,Bulat,Halus,0,1,Silver,Basah,482,Industri,Sedang,Kerajinan
+211,Rumput,Bulat,Halus,1,0,Coklat,Basah,265,Pertanian,Tinggi,Biogas
+212,Ban bekas,Silinder,Lembek,0,1,Silver,Kering,266,Restoran,Sedang,Daur Ulang
+213,Sisa makanan,Melengkung,Tajam,1,0,Kuning,Basah,345,Rumah Tangga,Tinggi,Biogas
+214,Sisa buah,Kotak,Tajam,1,0,Coklat,Basah,40,Restoran,Tinggi,Kompos
+215,Sedotan plastik,Silinder,Tajam,0,1,Merah,Kering,71,Restoran,Tinggi,Tidak Dapat Diolah
+216,Sisa sayuran,Tidak beraturan,Keras,1,0,Kuning,Basah,454,Industri,Sedang,Kompos
+217,Kaleng cat,Bulat,Tajam,0,1,Transparan,Basah,331,Rumah Tangga,Rendah,Kerajinan
+218,Kulit mangga,Tidak beraturan,Halus,1,0,Putih,Basah,44,Rumah Tangga,Tinggi,Kompos
+219,Paku berkarat,Kotak,Tajam,0,1,Hijau,Basah,63,Sekolah,Sedang,Tidak Dapat Diolah
+220,Sisa sayuran,Melengkung,Kasar,1,0,Putih,Kering,300,Pasar,Tinggi,Pakan Ternak
+221,Ban bekas,Kotak,Tajam,0,1,Silver,Basah,423,Restoran,Sedang,Daur Ulang
+222,Kulit bawang,Melengkung,Lembek,1,0,Silver,Basah,91,Sekolah,Tinggi,Pakan Ternak
+223,Styrofoam bekas makanan,Silinder,Lembek,0,1,Transparan,Basah,169,Pertanian,Tinggi,Tidak Dapat Diolah
+224,Tulang ayam,Bulat,Kasar,1,0,Coklat,Basah,148,Pertanian,Rendah,Kompos
+225,Botol plastik,Pipih,Kasar,0,1,Kuning,Kering,483,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+226,Botol plastik,Kotak,Lembek,0,1,Silver,Kering,268,Sekolah,Tinggi,Kerajinan
+227,Tulang ayam,Kotak,Tajam,1,0,Merah,Kering,279,Pertanian,Rendah,Biogas
+228,Kaleng minuman,Melengkung,Halus,0,1,Hitam,Kering,437,Restoran,Tinggi,Tidak Dapat Diolah
+229,Kantong plastik,Silinder,Lembek,0,1,Silver,Kering,190,Rumah Tangga,Tinggi,Kerajinan
+230,Botol plastik,Kotak,Lembek,0,1,Hitam,Kering,230,Restoran,Sedang,Kerajinan
+231,Kulit bawang,Bulat,Halus,1,0,Hitam,Basah,247,Pasar,Rendah,Pakan Ternak
+232,Styrofoam bekas makanan,Silinder,Kasar,0,1,Putih,Kering,412,Sekolah,Tinggi,Tidak Dapat Diolah
+233,Kulit pisang,Silinder,Kasar,1,0,Kuning,Kering,208,Rumah Tangga,Tinggi,Kompos
+234,Sisa sayuran,Melengkung,Lembek,1,0,Hitam,Kering,377,Rumah Tangga,Tinggi,Pakan Ternak
+235,Ban bekas,Kotak,Keras,0,1,Hijau,Basah,162,Pertanian,Sedang,Tidak Dapat Diolah
+236,Tulang ayam,Bulat,Halus,1,0,Kuning,Kering,457,Pertanian,Sedang,Kompos
+237,Ranting pohon,Silinder,Halus,1,0,Merah,Basah,108,Pertanian,Rendah,Pakan Ternak
+238,Botol plastik,Silinder,Kasar,0,1,Kuning,Kering,251,Sekolah,Rendah,Kerajinan
+239,Tulang ayam,Pipih,Keras,1,0,Transparan,Kering,117,Industri,Tinggi,Kompos
+240,Sisa makanan,Silinder,Kasar,1,0,Kuning,Basah,359,Rumah Tangga,Rendah,Pakan Ternak
+241,Sisa sayuran,Pipih,Kasar,1,0,Coklat,Kering,233,Industri,Sedang,Pakan Ternak
+242,Kaleng minuman,Kotak,Kasar,0,1,Silver,Kering,334,Sekolah,Rendah,Tidak Dapat Diolah
+243,Kulit bawang,Silinder,Keras,1,0,Putih,Basah,52,Pertanian,Rendah,Biogas
+244,Rumput,Pipih,Kasar,1,0,Merah,Kering,195,Restoran,Tinggi,Pakan Ternak
+245,Kulit mangga,Tidak beraturan,Kasar,1,0,Putih,Kering,157,Pasar,Sedang,Biogas
+246,Sedotan plastik,Bulat,Keras,0,1,Hitam,Kering,219,Rumah Tangga,Sedang,Daur Ulang
+247,Sisa buah,Melengkung,Halus,1,0,Coklat,Basah,26,Pertanian,Sedang,Pakan Ternak
+248,Sisa makanan,Melengkung,Kasar,1,0,Putih,Basah,342,Rumah Tangga,Tinggi,Biogas
+249,Styrofoam bekas makanan,Melengkung,Tajam,0,1,Hitam,Basah,148,Restoran,Tinggi,Tidak Dapat Diolah
+250,Kaleng minuman,Kotak,Halus,0,1,Merah,Kering,258,Industri,Tinggi,Kerajinan
+251,Kardus bekas,Pipih,Lembek,0,1,Hijau,Kering,424,Pertanian,Rendah,Kerajinan
+252,Daun kering,Pipih,Halus,1,0,Transparan,Kering,234,Pasar,Tinggi,Pakan Ternak
+253,Kulit mangga,Kotak,Lembek,1,0,Silver,Basah,311,Sekolah,Sedang,Kompos
+254,Ban bekas,Melengkung,Tajam,0,1,Merah,Basah,10,Industri,Tinggi,Daur Ulang
+255,Rumput,Silinder,Kasar,1,0,Transparan,Kering,324,Industri,Tinggi,Biogas
+256,Paku berkarat,Pipih,Lembek,0,1,Silver,Kering,500,Pertanian,Sedang,Daur Ulang
+257,Paku berkarat,Melengkung,Lembek,0,1,Hitam,Basah,398,Industri,Rendah,Kerajinan
+258,Sisa sayuran,Kotak,Halus,1,0,Kuning,Basah,123,Industri,Tinggi,Pakan Ternak
+259,Rumput,Melengkung,Tajam,1,0,Coklat,Kering,256,Sekolah,Tinggi,Pakan Ternak
+260,Kantong plastik,Pipih,Kasar,0,1,Silver,Kering,267,Restoran,Sedang,Tidak Dapat Diolah
+261,Sisa makanan,Bulat,Halus,1,0,Putih,Basah,438,Pertanian,Sedang,Pakan Ternak
+262,Tulang ayam,Tidak beraturan,Keras,1,0,Hijau,Basah,345,Pertanian,Tinggi,Biogas
+263,Daun kering,Silinder,Lembek,1,0,Putih,Kering,54,Rumah Tangga,Rendah,Biogas
+264,Kardus bekas,Kotak,Keras,0,1,Transparan,Basah,74,Sekolah,Sedang,Daur Ulang
+265,Kantong plastik,Pipih,Lembek,0,1,Silver,Kering,119,Pasar,Sedang,Tidak Dapat Diolah
+266,Kulit mangga,Bulat,Halus,1,0,Coklat,Kering,404,Industri,Tinggi,Pakan Ternak
+267,Botol plastik,Kotak,Halus,0,1,Merah,Basah,406,Pertanian,Sedang,Kerajinan
+268,Sedotan plastik,Silinder,Halus,0,1,Hitam,Basah,252,Rumah Tangga,Rendah,Tidak Dapat Diolah
+269,Kulit pisang,Melengkung,Halus,1,0,Putih,Kering,49,Industri,Sedang,Pakan Ternak
+270,Sisa sayuran,Melengkung,Halus,1,0,Merah,Basah,378,Rumah Tangga,Rendah,Pakan Ternak
+271,Tulang ayam,Kotak,Keras,1,0,Putih,Kering,15,Rumah Tangga,Tinggi,Biogas
+272,Kardus bekas,Bulat,Tajam,0,1,Transparan,Basah,135,Restoran,Sedang,Tidak Dapat Diolah
+273,Sisa sayuran,Silinder,Kasar,1,0,Silver,Basah,356,Pertanian,Tinggi,Kompos
+274,Daun kering,Melengkung,Keras,1,0,Putih,Kering,470,Pasar,Rendah,Pakan Ternak
+275,Sisa makanan,Melengkung,Lembek,1,0,Transparan,Basah,106,Sekolah,Tinggi,Biogas
+276,Sedotan plastik,Tidak beraturan,Kasar,0,1,Kuning,Kering,82,Rumah Tangga,Rendah,Tidak Dapat Diolah
+277,Kaleng cat,Pipih,Lembek,0,1,Hitam,Kering,64,Industri,Sedang,Tidak Dapat Diolah
+278,Botol plastik,Melengkung,Keras,0,1,Kuning,Basah,84,Sekolah,Rendah,Kerajinan
+279,Styrofoam bekas makanan,Bulat,Keras,0,1,Hitam,Kering,57,Pertanian,Sedang,Daur Ulang
+280,Kulit mangga,Silinder,Lembek,1,0,Hitam,Kering,390,Pasar,Tinggi,Kompos
+281,Sisa buah,Melengkung,Lembek,1,0,Hijau,Kering,422,Restoran,Rendah,Pakan Ternak
+282,Botol plastik,Melengkung,Halus,0,1,Merah,Kering,259,Industri,Tinggi,Daur Ulang
+283,Botol plastik,Silinder,Halus,0,1,Hijau,Basah,117,Pasar,Rendah,Tidak Dapat Diolah
+284,Tulang ayam,Bulat,Lembek,1,0,Hitam,Kering,343,Industri,Tinggi,Biogas
+285,Kardus bekas,Tidak beraturan,Tajam,0,1,Merah,Kering,481,Pasar,Sedang,Daur Ulang
+286,Kantong plastik,Bulat,Halus,0,1,Transparan,Basah,183,Industri,Rendah,Tidak Dapat Diolah
+287,Ranting pohon,Bulat,Lembek,1,0,Kuning,Basah,134,Rumah Tangga,Rendah,Biogas
+288,Kaca pecah,Pipih,Lembek,0,1,Hitam,Kering,54,Pertanian,Rendah,Tidak Dapat Diolah
+289,Sisa sayuran,Silinder,Tajam,1,0,Kuning,Kering,347,Pertanian,Sedang,Kompos
+290,Ban bekas,Silinder,Halus,0,1,Hitam,Basah,162,Pertanian,Rendah,Kerajinan
+291,Sisa buah,Bulat,Keras,1,0,Hijau,Basah,409,Sekolah,Sedang,Kompos
+292,Daun kering,Kotak,Lembek,1,0,Merah,Basah,240,Sekolah,Sedang,Biogas
+293,Sisa makanan,Silinder,Lembek,1,0,Kuning,Kering,65,Restoran,Rendah,Pakan Ternak
+294,Styrofoam bekas makanan,Melengkung,Halus,0,1,Merah,Basah,441,Pertanian,Sedang,Kerajinan
+295,Ranting pohon,Melengkung,Keras,1,0,Coklat,Kering,360,Pertanian,Tinggi,Kompos
+296,Kulit mangga,Bulat,Kasar,1,0,Kuning,Kering,451,Rumah Tangga,Tinggi,Biogas
+297,Botol plastik,Bulat,Lembek,0,1,Kuning,Basah,151,Industri,Sedang,Daur Ulang
+298,Paku berkarat,Bulat,Lembek,0,1,Transparan,Basah,333,Rumah Tangga,Rendah,Tidak Dapat Diolah
+299,Kulit bawang,Tidak beraturan,Halus,1,0,Silver,Kering,191,Pertanian,Tinggi,Kompos
+300,Sisa makanan,Melengkung,Keras,1,0,Merah,Kering,412,Pasar,Sedang,Kompos
+301,Kaleng cat,Bulat,Tajam,0,1,Kuning,Kering,331,Sekolah,Sedang,Kerajinan
+302,Sisa makanan,Melengkung,Lembek,1,0,Merah,Kering,225,Pasar,Tinggi,Pakan Ternak
+303,Kantong plastik,Pipih,Halus,0,1,Putih,Basah,376,Industri,Tinggi,Kerajinan
+304,Tulang ayam,Tidak beraturan,Kasar,1,0,Coklat,Kering,491,Sekolah,Tinggi,Pakan Ternak
+305,Kaleng minuman,Pipih,Kasar,0,1,Merah,Basah,74,Sekolah,Rendah,Daur Ulang
+306,Botol plastik,Bulat,Lembek,0,1,Putih,Kering,283,Pasar,Rendah,Daur Ulang
+307,Kulit mangga,Silinder,Kasar,1,0,Merah,Kering,279,Industri,Rendah,Pakan Ternak
+308,Kulit bawang,Melengkung,Tajam,1,0,Coklat,Kering,101,Pasar,Tinggi,Biogas
+309,Kulit pisang,Melengkung,Tajam,1,0,Transparan,Basah,129,Sekolah,Tinggi,Kompos
+310,Rumput,Bulat,Tajam,1,0,Kuning,Basah,210,Pertanian,Sedang,Biogas
+311,Tulang ayam,Bulat,Kasar,1,0,Transparan,Kering,23,Pertanian,Rendah,Biogas
+312,Rumput,Silinder,Halus,1,0,Coklat,Basah,412,Pertanian,Sedang,Kompos
+313,Paku berkarat,Pipih,Tajam,0,1,Transparan,Basah,324,Pertanian,Tinggi,Daur Ulang
+314,Kaleng minuman,Tidak beraturan,Keras,0,1,Hitam,Basah,25,Rumah Tangga,Rendah,Tidak Dapat Diolah
+315,Sedotan plastik,Bulat,Halus,0,1,Kuning,Kering,172,Industri,Sedang,Tidak Dapat Diolah
+316,Styrofoam bekas makanan,Silinder,Kasar,0,1,Putih,Basah,412,Pertanian,Tinggi,Kerajinan
+317,Daun kering,Kotak,Keras,1,0,Kuning,Kering,322,Restoran,Tinggi,Kompos
+318,Kaleng minuman,Bulat,Keras,0,1,Merah,Basah,96,Restoran,Tinggi,Daur Ulang
+319,Sisa makanan,Kotak,Lembek,1,0,Hitam,Basah,392,Sekolah,Rendah,Pakan Ternak
+320,Kulit mangga,Silinder,Keras,1,0,Hitam,Kering,452,Pertanian,Tinggi,Kompos
+321,Kulit bawang,Bulat,Kasar,1,0,Kuning,Basah,100,Industri,Tinggi,Pakan Ternak
+322,Kardus bekas,Pipih,Kasar,0,1,Hitam,Kering,376,Pasar,Sedang,Tidak Dapat Diolah
+323,Ban bekas,Bulat,Kasar,0,1,Putih,Basah,135,Industri,Sedang,Daur Ulang
+324,Botol plastik,Bulat,Keras,0,1,Kuning,Basah,284,Restoran,Rendah,Daur Ulang
+325,Kardus bekas,Tidak beraturan,Keras,0,1,Hitam,Basah,464,Sekolah,Tinggi,Kerajinan
+326,Styrofoam bekas makanan,Bulat,Keras,0,1,Transparan,Basah,355,Rumah Tangga,Tinggi,Daur Ulang
+327,Kulit mangga,Tidak beraturan,Keras,1,0,Silver,Basah,305,Pertanian,Tinggi,Kompos
+328,Sisa makanan,Tidak beraturan,Lembek,1,0,Kuning,Basah,351,Pasar,Sedang,Biogas
+329,Ban bekas,Kotak,Kasar,0,1,Kuning,Basah,439,Restoran,Rendah,Daur Ulang
+330,Kaleng minuman,Melengkung,Kasar,0,1,Merah,Kering,10,Rumah Tangga,Sedang,Daur Ulang
+331,Sedotan plastik,Kotak,Tajam,0,1,Transparan,Kering,407,Restoran,Tinggi,Kerajinan
+332,Kaleng cat,Melengkung,Halus,0,1,Kuning,Kering,232,Industri,Rendah,Tidak Dapat Diolah
+333,Sedotan plastik,Kotak,Tajam,0,1,Putih,Kering,391,Sekolah,Tinggi,Kerajinan
+334,Sisa buah,Silinder,Lembek,1,0,Merah,Kering,469,Sekolah,Tinggi,Pakan Ternak
+335,Kantong plastik,Pipih,Keras,0,1,Transparan,Basah,102,Sekolah,Sedang,Kerajinan
+336,Sisa buah,Pipih,Tajam,1,0,Hijau,Kering,296,Sekolah,Rendah,Biogas
+337,Kaca pecah,Kotak,Halus,0,1,Transparan,Basah,194,Pasar,Rendah,Daur Ulang
+338,Kardus bekas,Melengkung,Halus,0,1,Coklat,Kering,204,Sekolah,Rendah,Kerajinan
+339,Kaleng cat,Tidak beraturan,Kasar,0,1,Putih,Basah,426,Restoran,Sedang,Daur Ulang
+340,Kulit mangga,Silinder,Kasar,1,0,Kuning,Basah,258,Restoran,Tinggi,Kompos
+341,Rumput,Melengkung,Halus,1,0,Silver,Basah,130,Pasar,Tinggi,Kompos
+342,Sisa makanan,Tidak beraturan,Lembek,1,0,Putih,Basah,210,Pertanian,Rendah,Pakan Ternak
+343,Kulit mangga,Pipih,Kasar,1,0,Coklat,Kering,407,Restoran,Rendah,Biogas
+344,Kulit pisang,Melengkung,Keras,1,0,Kuning,Kering,348,Pertanian,Tinggi,Kompos
+345,Kulit mangga,Bulat,Kasar,1,0,Coklat,Kering,27,Sekolah,Tinggi,Biogas
+346,Sisa sayuran,Kotak,Halus,1,0,Transparan,Kering,28,Rumah Tangga,Rendah,Kompos
+347,Sedotan plastik,Pipih,Keras,0,1,Hijau,Kering,387,Sekolah,Rendah,Tidak Dapat Diolah
+348,Daun kering,Bulat,Kasar,1,0,Merah,Basah,317,Industri,Rendah,Kompos
+349,Botol plastik,Tidak beraturan,Keras,0,1,Hijau,Basah,440,Pertanian,Rendah,Tidak Dapat Diolah
+350,Kaleng cat,Tidak beraturan,Tajam,0,1,Hitam,Basah,326,Rumah Tangga,Sedang,Daur Ulang
+351,Kantong plastik,Silinder,Halus,0,1,Transparan,Kering,160,Pasar,Tinggi,Tidak Dapat Diolah
+352,Sisa buah,Pipih,Lembek,1,0,Transparan,Basah,223,Rumah Tangga,Tinggi,Pakan Ternak
+353,Rumput,Bulat,Keras,1,0,Hijau,Basah,131,Pertanian,Rendah,Pakan Ternak
+354,Sisa buah,Melengkung,Keras,1,0,Coklat,Basah,197,Restoran,Sedang,Kompos
+355,Rumput,Bulat,Lembek,1,0,Merah,Basah,187,Pasar,Rendah,Biogas
+356,Ban bekas,Bulat,Tajam,0,1,Hijau,Basah,243,Industri,Tinggi,Tidak Dapat Diolah
+357,Kardus bekas,Melengkung,Kasar,0,1,Silver,Basah,243,Industri,Tinggi,Daur Ulang
+358,Styrofoam bekas makanan,Silinder,Halus,0,1,Transparan,Kering,412,Industri,Tinggi,Kerajinan
+359,Ranting pohon,Melengkung,Kasar,1,0,Hitam,Basah,232,Pertanian,Rendah,Pakan Ternak
+360,Paku berkarat,Bulat,Lembek,0,1,Merah,Kering,221,Restoran,Sedang,Daur Ulang
+361,Kantong plastik,Melengkung,Tajam,0,1,Kuning,Basah,5,Sekolah,Rendah,Tidak Dapat Diolah
+362,Ban bekas,Kotak,Halus,0,1,Putih,Basah,102,Industri,Tinggi,Daur Ulang
+363,Botol plastik,Silinder,Kasar,0,1,Hitam,Basah,354,Rumah Tangga,Rendah,Tidak Dapat Diolah
+364,Daun kering,Kotak,Tajam,1,0,Hijau,Kering,193,Sekolah,Sedang,Biogas
+365,Kaleng cat,Pipih,Keras,0,1,Putih,Kering,459,Restoran,Rendah,Tidak Dapat Diolah
+366,Sedotan plastik,Tidak beraturan,Kasar,0,1,Kuning,Kering,346,Industri,Rendah,Kerajinan
+367,Kulit mangga,Kotak,Lembek,1,0,Hijau,Basah,302,Rumah Tangga,Tinggi,Kompos
+368,Kaleng cat,Melengkung,Kasar,0,1,Hijau,Basah,231,Rumah Tangga,Tinggi,Daur Ulang
+369,Botol plastik,Tidak beraturan,Halus,0,1,Hijau,Basah,135,Industri,Sedang,Kerajinan
+370,Daun kering,Silinder,Kasar,1,0,Putih,Kering,456,Pasar,Tinggi,Pakan Ternak
+371,Ban bekas,Melengkung,Lembek,0,1,Kuning,Kering,67,Industri,Sedang,Daur Ulang
+372,Sisa buah,Pipih,Lembek,1,0,Coklat,Basah,129,Pasar,Tinggi,Biogas
+373,Botol plastik,Bulat,Lembek,0,1,Silver,Kering,314,Pertanian,Rendah,Tidak Dapat Diolah
+374,Kaca pecah,Tidak beraturan,Lembek,0,1,Merah,Kering,415,Rumah Tangga,Sedang,Kerajinan
+375,Kulit bawang,Kotak,Lembek,1,0,Putih,Basah,82,Pertanian,Rendah,Pakan Ternak
+376,Kaca pecah,Silinder,Kasar,0,1,Putih,Kering,401,Pertanian,Rendah,Kerajinan
+377,Ban bekas,Melengkung,Keras,0,1,Putih,Kering,102,Restoran,Rendah,Kerajinan
+378,Rumput,Bulat,Keras,1,0,Hitam,Basah,109,Restoran,Tinggi,Biogas
+379,Kulit bawang,Kotak,Halus,1,0,Hitam,Basah,177,Pasar,Rendah,Biogas
+380,Rumput,Bulat,Halus,1,0,Hitam,Kering,139,Sekolah,Sedang,Pakan Ternak
+381,Kaleng cat,Pipih,Kasar,0,1,Transparan,Kering,334,Pasar,Tinggi,Tidak Dapat Diolah
+382,Kantong plastik,Pipih,Kasar,0,1,Hitam,Kering,34,Restoran,Sedang,Tidak Dapat Diolah
+383,Kardus bekas,Silinder,Keras,0,1,Kuning,Kering,195,Restoran,Tinggi,Daur Ulang
+384,Kardus bekas,Silinder,Tajam,0,1,Hitam,Kering,485,Pasar,Sedang,Kerajinan
+385,Kaca pecah,Silinder,Halus,0,1,Hitam,Kering,156,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+386,Kantong plastik,Kotak,Lembek,0,1,Putih,Kering,363,Pasar,Sedang,Daur Ulang
+387,Kulit bawang,Pipih,Kasar,1,0,Coklat,Basah,320,Pertanian,Tinggi,Biogas
+388,Sisa sayuran,Tidak beraturan,Keras,1,0,Hitam,Kering,455,Pertanian,Tinggi,Pakan Ternak
+389,Botol plastik,Tidak beraturan,Keras,0,1,Coklat,Kering,129,Pasar,Tinggi,Tidak Dapat Diolah
+390,Kaleng cat,Pipih,Kasar,0,1,Transparan,Basah,16,Pertanian,Sedang,Tidak Dapat Diolah
+391,Kantong plastik,Pipih,Halus,0,1,Hijau,Basah,253,Rumah Tangga,Sedang,Tidak Dapat Diolah
+392,Sedotan plastik,Kotak,Halus,0,1,Transparan,Kering,110,Restoran,Sedang,Daur Ulang
+393,Kardus bekas,Silinder,Kasar,0,1,Silver,Basah,446,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+394,Paku berkarat,Tidak beraturan,Kasar,0,1,Kuning,Basah,17,Pertanian,Rendah,Daur Ulang
+395,Sisa buah,Silinder,Lembek,1,0,Merah,Basah,338,Rumah Tangga,Tinggi,Kompos
+396,Sisa sayuran,Tidak beraturan,Halus,1,0,Hijau,Basah,181,Restoran,Sedang,Biogas
+397,Sisa buah,Bulat,Halus,1,0,Hitam,Kering,343,Rumah Tangga,Rendah,Biogas
+398,Botol plastik,Tidak beraturan,Halus,0,1,Merah,Kering,334,Restoran,Sedang,Kerajinan
+399,Kulit mangga,Bulat,Kasar,1,0,Hitam,Basah,13,Rumah Tangga,Rendah,Biogas
+400,Rumput,Bulat,Tajam,1,0,Transparan,Basah,240,Restoran,Sedang,Kompos
+401,Styrofoam bekas makanan,Tidak beraturan,Lembek,0,1,Merah,Basah,445,Restoran,Sedang,Kerajinan
+402,Kaca pecah,Tidak beraturan,Kasar,0,1,Hijau,Kering,86,Rumah Tangga,Rendah,Tidak Dapat Diolah
+403,Kulit pisang,Pipih,Keras,1,0,Transparan,Kering,384,Industri,Sedang,Kompos
+404,Sisa makanan,Melengkung,Keras,1,0,Merah,Basah,68,Pertanian,Tinggi,Biogas
+405,Styrofoam bekas makanan,Bulat,Lembek,0,1,Kuning,Basah,246,Pasar,Sedang,Kerajinan
+406,Sisa sayuran,Kotak,Keras,1,0,Hijau,Kering,417,Rumah Tangga,Rendah,Biogas
+407,Kaleng cat,Bulat,Tajam,0,1,Hitam,Kering,20,Rumah Tangga,Sedang,Kerajinan
+408,Kaleng minuman,Melengkung,Lembek,0,1,Kuning,Basah,242,Industri,Tinggi,Tidak Dapat Diolah
+409,Styrofoam bekas makanan,Silinder,Lembek,0,1,Kuning,Kering,373,Industri,Sedang,Tidak Dapat Diolah
+410,Paku berkarat,Kotak,Halus,0,1,Merah,Kering,76,Industri,Rendah,Daur Ulang
+411,Paku berkarat,Tidak beraturan,Lembek,0,1,Hijau,Basah,146,Rumah Tangga,Sedang,Daur Ulang
+412,Sisa makanan,Silinder,Kasar,1,0,Hitam,Kering,389,Rumah Tangga,Sedang,Biogas
+413,Kaleng cat,Melengkung,Kasar,0,1,Putih,Basah,134,Restoran,Rendah,Tidak Dapat Diolah
+414,Kardus bekas,Bulat,Keras,0,1,Hitam,Kering,387,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+415,Kulit pisang,Melengkung,Tajam,1,0,Merah,Kering,366,Industri,Sedang,Biogas
+416,Ban bekas,Silinder,Halus,0,1,Hitam,Kering,186,Industri,Tinggi,Daur Ulang
+417,Sisa sayuran,Tidak beraturan,Tajam,1,0,Transparan,Kering,428,Sekolah,Tinggi,Pakan Ternak
+418,Kantong plastik,Silinder,Tajam,0,1,Merah,Kering,380,Restoran,Tinggi,Tidak Dapat Diolah
+419,Paku berkarat,Melengkung,Lembek,0,1,Kuning,Kering,153,Rumah Tangga,Rendah,Kerajinan
+420,Ban bekas,Tidak beraturan,Halus,0,1,Silver,Basah,172,Sekolah,Rendah,Kerajinan
+421,Sisa makanan,Melengkung,Tajam,1,0,Putih,Kering,345,Restoran,Tinggi,Pakan Ternak
+422,Kulit pisang,Kotak,Tajam,1,0,Putih,Basah,38,Rumah Tangga,Rendah,Kompos
+423,Sisa sayuran,Bulat,Halus,1,0,Transparan,Basah,418,Pasar,Sedang,Pakan Ternak
+424,Kaca pecah,Tidak beraturan,Lembek,0,1,Kuning,Basah,483,Industri,Tinggi,Kerajinan
+425,Kaleng minuman,Pipih,Lembek,0,1,Hijau,Basah,207,Restoran,Tinggi,Tidak Dapat Diolah
+426,Tulang ayam,Bulat,Halus,1,0,Hijau,Basah,12,Industri,Rendah,Biogas
+427,Tulang ayam,Kotak,Tajam,1,0,Transparan,Basah,200,Rumah Tangga,Tinggi,Kompos
+428,Kulit bawang,Tidak beraturan,Halus,1,0,Silver,Kering,358,Restoran,Rendah,Biogas
+429,Sisa makanan,Silinder,Kasar,1,0,Transparan,Kering,43,Sekolah,Rendah,Pakan Ternak
+430,Paku berkarat,Bulat,Kasar,0,1,Putih,Kering,481,Rumah Tangga,Sedang,Daur Ulang
+431,Tulang ayam,Tidak beraturan,Kasar,1,0,Hijau,Basah,92,Sekolah,Sedang,Biogas
+432,Botol plastik,Kotak,Tajam,0,1,Silver,Kering,248,Industri,Tinggi,Kerajinan
+433,Kaleng cat,Melengkung,Halus,0,1,Hitam,Kering,285,Industri,Rendah,Daur Ulang
+434,Rumput,Tidak beraturan,Halus,1,0,Coklat,Basah,113,Restoran,Sedang,Biogas
+435,Kaleng minuman,Silinder,Kasar,0,1,Coklat,Basah,45,Sekolah,Sedang,Kerajinan
+436,Kulit pisang,Bulat,Tajam,1,0,Transparan,Kering,259,Restoran,Sedang,Pakan Ternak
+437,Rumput,Melengkung,Lembek,1,0,Silver,Kering,260,Restoran,Tinggi,Pakan Ternak
+438,Kulit pisang,Pipih,Halus,1,0,Silver,Basah,442,Pertanian,Tinggi,Pakan Ternak
+439,Sedotan plastik,Bulat,Halus,0,1,Silver,Kering,186,Sekolah,Sedang,Kerajinan
+440,Kaleng cat,Tidak beraturan,Keras,0,1,Hitam,Kering,10,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+441,Kulit bawang,Pipih,Keras,1,0,Silver,Basah,31,Pertanian,Rendah,Kompos
+442,Sisa makanan,Silinder,Lembek,1,0,Kuning,Kering,87,Industri,Sedang,Kompos
+443,Botol plastik,Pipih,Lembek,0,1,Hitam,Basah,316,Pertanian,Sedang,Tidak Dapat Diolah
+444,Kaleng minuman,Pipih,Tajam,0,1,Kuning,Basah,275,Sekolah,Tinggi,Kerajinan
+445,Paku berkarat,Tidak beraturan,Keras,0,1,Putih,Kering,31,Rumah Tangga,Sedang,Tidak Dapat Diolah
+446,Kaleng cat,Tidak beraturan,Keras,0,1,Putih,Kering,280,Pasar,Sedang,Kerajinan
+447,Sisa makanan,Bulat,Kasar,1,0,Transparan,Basah,61,Restoran,Rendah,Kompos
+448,Kaca pecah,Bulat,Tajam,0,1,Silver,Kering,222,Industri,Rendah,Kerajinan
+449,Styrofoam bekas makanan,Pipih,Tajam,0,1,Putih,Basah,36,Restoran,Tinggi,Kerajinan
+450,Kulit mangga,Pipih,Keras,1,0,Kuning,Kering,436,Sekolah,Tinggi,Kompos
+451,Kulit bawang,Melengkung,Halus,1,0,Kuning,Basah,108,Sekolah,Tinggi,Biogas
+452,Ranting pohon,Melengkung,Halus,1,0,Transparan,Kering,28,Sekolah,Sedang,Biogas
+453,Sisa sayuran,Pipih,Lembek,1,0,Hijau,Basah,231,Rumah Tangga,Sedang,Biogas
+454,Kardus bekas,Silinder,Tajam,0,1,Merah,Basah,296,Sekolah,Tinggi,Daur Ulang
+455,Botol plastik,Tidak beraturan,Kasar,0,1,Silver,Kering,370,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+456,Sisa buah,Melengkung,Halus,1,0,Transparan,Basah,430,Rumah Tangga,Sedang,Kompos
+457,Daun kering,Silinder,Halus,1,0,Coklat,Kering,206,Pertanian,Tinggi,Kompos
+458,Tulang ayam,Tidak beraturan,Tajam,1,0,Hijau,Kering,483,Rumah Tangga,Sedang,Kompos
+459,Paku berkarat,Silinder,Kasar,0,1,Coklat,Basah,400,Restoran,Rendah,Kerajinan
+460,Sisa sayuran,Tidak beraturan,Keras,1,0,Hitam,Basah,111,Rumah Tangga,Sedang,Biogas
+461,Kulit mangga,Tidak beraturan,Lembek,1,0,Hitam,Kering,199,Pasar,Sedang,Pakan Ternak
+462,Tulang ayam,Pipih,Tajam,1,0,Coklat,Kering,6,Sekolah,Rendah,Kompos
+463,Sisa makanan,Melengkung,Halus,1,0,Putih,Kering,52,Restoran,Tinggi,Pakan Ternak
+464,Sisa makanan,Tidak beraturan,Kasar,1,0,Hitam,Kering,223,Pertanian,Tinggi,Biogas
+465,Botol plastik,Silinder,Tajam,0,1,Putih,Basah,28,Pasar,Sedang,Tidak Dapat Diolah
+466,Kaleng minuman,Melengkung,Halus,0,1,Silver,Kering,443,Industri,Tinggi,Tidak Dapat Diolah
+467,Tulang ayam,Bulat,Keras,1,0,Putih,Kering,40,Pertanian,Rendah,Pakan Ternak
+468,Styrofoam bekas makanan,Bulat,Kasar,0,1,Coklat,Kering,451,Industri,Sedang,Daur Ulang
+469,Kulit bawang,Bulat,Tajam,1,0,Transparan,Kering,233,Pertanian,Tinggi,Kompos
+470,Daun kering,Silinder,Kasar,1,0,Hitam,Kering,265,Rumah Tangga,Sedang,Pakan Ternak
+471,Kulit pisang,Silinder,Halus,1,0,Silver,Basah,134,Rumah Tangga,Sedang,Kompos
+472,Paku berkarat,Pipih,Keras,0,1,Kuning,Basah,94,Industri,Tinggi,Kerajinan
+473,Sedotan plastik,Bulat,Tajam,0,1,Hitam,Kering,339,Industri,Sedang,Kerajinan
+474,Rumput,Kotak,Keras,1,0,Coklat,Kering,115,Pasar,Sedang,Pakan Ternak
+475,Kantong plastik,Pipih,Lembek,0,1,Transparan,Kering,14,Rumah Tangga,Tinggi,Kerajinan
+476,Daun kering,Silinder,Lembek,1,0,Putih,Basah,404,Restoran,Rendah,Biogas
+477,Sisa sayuran,Tidak beraturan,Lembek,1,0,Merah,Kering,45,Sekolah,Tinggi,Kompos
+478,Daun kering,Kotak,Lembek,1,0,Kuning,Kering,195,Rumah Tangga,Sedang,Biogas
+479,Kulit bawang,Bulat,Tajam,1,0,Silver,Kering,108,Pertanian,Sedang,Biogas
+480,Kulit bawang,Tidak beraturan,Tajam,1,0,Silver,Kering,184,Industri,Tinggi,Biogas
+481,Rumput,Silinder,Halus,1,0,Kuning,Kering,32,Sekolah,Sedang,Biogas
+482,Kardus bekas,Bulat,Kasar,0,1,Coklat,Basah,434,Restoran,Rendah,Daur Ulang
+483,Sisa makanan,Tidak beraturan,Lembek,1,0,Hijau,Kering,5,Pertanian,Tinggi,Biogas
+484,Kulit bawang,Pipih,Lembek,1,0,Putih,Basah,273,Restoran,Sedang,Biogas
+485,Paku berkarat,Kotak,Halus,0,1,Transparan,Kering,107,Rumah Tangga,Rendah,Kerajinan
+486,Kaca pecah,Bulat,Tajam,0,1,Merah,Kering,368,Pertanian,Rendah,Daur Ulang
+487,Kantong plastik,Kotak,Lembek,0,1,Hijau,Kering,289,Rumah Tangga,Tinggi,Daur Ulang
+488,Kulit mangga,Pipih,Kasar,1,0,Coklat,Kering,57,Rumah Tangga,Rendah,Biogas
+489,Paku berkarat,Pipih,Halus,0,1,Transparan,Kering,125,Restoran,Rendah,Kerajinan
+490,Ranting pohon,Kotak,Lembek,1,0,Kuning,Basah,134,Pasar,Tinggi,Pakan Ternak
+491,Kulit pisang,Silinder,Lembek,1,0,Coklat,Basah,399,Industri,Rendah,Pakan Ternak
+492,Sisa sayuran,Bulat,Kasar,1,0,Hitam,Kering,144,Pertanian,Tinggi,Kompos
+493,Sisa makanan,Pipih,Keras,1,0,Hijau,Basah,437,Pasar,Sedang,Pakan Ternak
+494,Ranting pohon,Silinder,Lembek,1,0,Merah,Kering,232,Industri,Rendah,Pakan Ternak
+495,Kulit bawang,Melengkung,Tajam,1,0,Silver,Kering,276,Pasar,Rendah,Biogas
+496,Tulang ayam,Tidak beraturan,Kasar,1,0,Hitam,Basah,390,Sekolah,Sedang,Kompos
+497,Paku berkarat,Pipih,Kasar,0,1,Putih,Basah,42,Restoran,Rendah,Daur Ulang
+498,Daun kering,Bulat,Halus,1,0,Coklat,Kering,179,Pasar,Sedang,Biogas
+499,Kardus bekas,Pipih,Halus,0,1,Putih,Kering,21,Industri,Tinggi,Daur Ulang
+500,Sisa buah,Pipih,Lembek,1,0,Hijau,Basah,103,Rumah Tangga,Tinggi,Kompos
+501,Kulit mangga,Silinder,Keras,1,0,Putih,Basah,491,Pertanian,Rendah,Pakan Ternak
+502,Kulit pisang,Bulat,Lembek,1,0,Kuning,Basah,169,Industri,Rendah,Biogas
+503,Kaleng minuman,Pipih,Halus,0,1,Silver,Kering,167,Restoran,Rendah,Daur Ulang
+504,Kardus bekas,Pipih,Kasar,0,1,Merah,Basah,303,Pertanian,Sedang,Kerajinan
+505,Botol plastik,Melengkung,Kasar,0,1,Merah,Kering,50,Pertanian,Tinggi,Daur Ulang
+506,Kulit bawang,Kotak,Keras,1,0,Hijau,Kering,496,Pasar,Sedang,Kompos
+507,Kardus bekas,Tidak beraturan,Tajam,0,1,Hitam,Basah,490,Rumah Tangga,Tinggi,Kerajinan
+508,Kardus bekas,Melengkung,Keras,0,1,Putih,Kering,277,Pasar,Sedang,Tidak Dapat Diolah
+509,Kulit mangga,Pipih,Kasar,1,0,Silver,Basah,362,Rumah Tangga,Tinggi,Kompos
+510,Rumput,Bulat,Lembek,1,0,Hijau,Kering,63,Sekolah,Sedang,Pakan Ternak
+511,Kantong plastik,Bulat,Keras,0,1,Coklat,Basah,14,Industri,Sedang,Tidak Dapat Diolah
+512,Kaca pecah,Pipih,Lembek,0,1,Kuning,Basah,52,Industri,Rendah,Kerajinan
+513,Styrofoam bekas makanan,Melengkung,Kasar,0,1,Hitam,Basah,180,Restoran,Rendah,Daur Ulang
+514,Styrofoam bekas makanan,Kotak,Keras,0,1,Hitam,Basah,424,Pasar,Tinggi,Daur Ulang
+515,Sisa makanan,Kotak,Kasar,1,0,Hijau,Kering,264,Sekolah,Tinggi,Biogas
+516,Ban bekas,Silinder,Kasar,0,1,Coklat,Kering,282,Sekolah,Rendah,Daur Ulang
+517,Paku berkarat,Tidak beraturan,Lembek,0,1,Hitam,Basah,205,Pertanian,Tinggi,Daur Ulang
+518,Kaleng minuman,Silinder,Kasar,0,1,Kuning,Kering,365,Restoran,Rendah,Daur Ulang
+519,Kulit mangga,Melengkung,Keras,1,0,Merah,Kering,146,Sekolah,Tinggi,Biogas
+520,Paku berkarat,Pipih,Tajam,0,1,Kuning,Kering,430,Restoran,Tinggi,Kerajinan
+521,Kaleng minuman,Tidak beraturan,Tajam,0,1,Kuning,Basah,23,Restoran,Rendah,Kerajinan
+522,Sisa buah,Melengkung,Kasar,1,0,Kuning,Kering,275,Restoran,Rendah,Biogas
+523,Daun kering,Melengkung,Keras,1,0,Transparan,Kering,453,Pertanian,Tinggi,Pakan Ternak
+524,Sisa sayuran,Bulat,Keras,1,0,Merah,Basah,421,Pasar,Sedang,Biogas
+525,Kaleng minuman,Pipih,Kasar,0,1,Merah,Kering,161,Sekolah,Tinggi,Kerajinan
+526,Tulang ayam,Kotak,Kasar,1,0,Hijau,Basah,455,Industri,Tinggi,Kompos
+527,Sisa buah,Bulat,Halus,1,0,Kuning,Basah,446,Pertanian,Tinggi,Kompos
+528,Tulang ayam,Tidak beraturan,Keras,1,0,Hitam,Kering,214,Industri,Rendah,Biogas
+529,Ranting pohon,Tidak beraturan,Halus,1,0,Putih,Basah,91,Industri,Rendah,Biogas
+530,Kulit bawang,Melengkung,Keras,1,0,Hitam,Basah,496,Restoran,Rendah,Biogas
+531,Kaleng cat,Silinder,Kasar,0,1,Hijau,Kering,352,Industri,Rendah,Tidak Dapat Diolah
+532,Kantong plastik,Melengkung,Keras,0,1,Merah,Kering,23,Rumah Tangga,Sedang,Daur Ulang
+533,Kaleng cat,Pipih,Lembek,0,1,Putih,Kering,258,Pasar,Tinggi,Daur Ulang
+534,Kantong plastik,Silinder,Keras,0,1,Coklat,Kering,122,Restoran,Rendah,Tidak Dapat Diolah
+535,Botol plastik,Melengkung,Halus,0,1,Putih,Kering,111,Rumah Tangga,Rendah,Tidak Dapat Diolah
+536,Ranting pohon,Silinder,Tajam,1,0,Hijau,Kering,296,Industri,Tinggi,Biogas
+537,Botol plastik,Silinder,Halus,0,1,Transparan,Basah,474,Rumah Tangga,Rendah,Tidak Dapat Diolah
+538,Kulit bawang,Pipih,Tajam,1,0,Putih,Kering,249,Industri,Rendah,Pakan Ternak
+539,Daun kering,Bulat,Keras,1,0,Coklat,Kering,255,Industri,Tinggi,Biogas
+540,Ranting pohon,Silinder,Halus,1,0,Hitam,Kering,170,Restoran,Sedang,Kompos
+541,Kaleng minuman,Bulat,Tajam,0,1,Silver,Basah,477,Pasar,Rendah,Daur Ulang
+542,Sisa makanan,Silinder,Keras,1,0,Transparan,Kering,88,Sekolah,Sedang,Kompos
+543,Sedotan plastik,Pipih,Halus,0,1,Hitam,Basah,250,Sekolah,Tinggi,Daur Ulang
+544,Kulit pisang,Bulat,Keras,1,0,Hitam,Kering,71,Pertanian,Sedang,Pakan Ternak
+545,Daun kering,Pipih,Tajam,1,0,Merah,Basah,378,Industri,Tinggi,Pakan Ternak
+546,Kardus bekas,Melengkung,Keras,0,1,Transparan,Kering,258,Pertanian,Tinggi,Tidak Dapat Diolah
+547,Kaleng cat,Kotak,Kasar,0,1,Kuning,Basah,329,Industri,Rendah,Daur Ulang
+548,Ranting pohon,Silinder,Lembek,1,0,Silver,Kering,238,Industri,Rendah,Kompos
+549,Sisa sayuran,Pipih,Keras,1,0,Silver,Basah,140,Rumah Tangga,Rendah,Biogas
+550,Sisa sayuran,Melengkung,Keras,1,0,Kuning,Kering,400,Pasar,Tinggi,Kompos
+551,Kaleng cat,Bulat,Lembek,0,1,Merah,Kering,6,Restoran,Rendah,Kerajinan
+552,Kaca pecah,Melengkung,Tajam,0,1,Transparan,Kering,237,Rumah Tangga,Sedang,Kerajinan
+553,Sedotan plastik,Silinder,Kasar,0,1,Putih,Kering,454,Rumah Tangga,Sedang,Daur Ulang
+554,Ranting pohon,Pipih,Halus,1,0,Hijau,Basah,485,Industri,Tinggi,Kompos
+555,Sisa makanan,Silinder,Tajam,1,0,Putih,Kering,39,Industri,Rendah,Biogas
+556,Sisa buah,Kotak,Lembek,1,0,Transparan,Basah,470,Rumah Tangga,Rendah,Biogas
+557,Kaleng cat,Pipih,Lembek,0,1,Hitam,Basah,288,Restoran,Sedang,Tidak Dapat Diolah
+558,Styrofoam bekas makanan,Kotak,Tajam,0,1,Transparan,Basah,196,Sekolah,Sedang,Daur Ulang
+559,Kantong plastik,Tidak beraturan,Tajam,0,1,Silver,Basah,451,Sekolah,Sedang,Daur Ulang
+560,Kaleng minuman,Melengkung,Kasar,0,1,Transparan,Kering,240,Industri,Rendah,Daur Ulang
+561,Ban bekas,Tidak beraturan,Halus,0,1,Silver,Basah,117,Pasar,Sedang,Kerajinan
+562,Sedotan plastik,Melengkung,Keras,0,1,Silver,Kering,341,Rumah Tangga,Sedang,Tidak Dapat Diolah
+563,Paku berkarat,Silinder,Tajam,0,1,Putih,Basah,409,Industri,Tinggi,Daur Ulang
+564,Paku berkarat,Tidak beraturan,Tajam,0,1,Silver,Kering,205,Rumah Tangga,Tinggi,Daur Ulang
+565,Kaleng cat,Kotak,Keras,0,1,Transparan,Basah,240,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+566,Daun kering,Kotak,Keras,1,0,Merah,Basah,38,Pasar,Sedang,Pakan Ternak
+567,Kulit pisang,Bulat,Tajam,1,0,Hijau,Kering,281,Rumah Tangga,Sedang,Kompos
+568,Kulit mangga,Silinder,Halus,1,0,Hijau,Basah,192,Rumah Tangga,Sedang,Pakan Ternak
+569,Kulit bawang,Melengkung,Keras,1,0,Coklat,Kering,378,Restoran,Tinggi,Kompos
+570,Sisa sayuran,Bulat,Lembek,1,0,Kuning,Kering,101,Industri,Rendah,Pakan Ternak
+571,Kulit mangga,Bulat,Keras,1,0,Transparan,Kering,339,Pertanian,Sedang,Biogas
+572,Sedotan plastik,Tidak beraturan,Halus,0,1,Coklat,Basah,499,Restoran,Tinggi,Daur Ulang
+573,Paku berkarat,Tidak beraturan,Tajam,0,1,Hitam,Basah,191,Pasar,Tinggi,Kerajinan
+574,Paku berkarat,Bulat,Kasar,0,1,Hitam,Basah,365,Rumah Tangga,Rendah,Kerajinan
+575,Kulit bawang,Pipih,Kasar,1,0,Silver,Kering,208,Pasar,Rendah,Pakan Ternak
+576,Kulit pisang,Silinder,Tajam,1,0,Hitam,Kering,199,Restoran,Tinggi,Kompos
+577,Kulit mangga,Kotak,Tajam,1,0,Silver,Kering,159,Pertanian,Rendah,Pakan Ternak
+578,Ranting pohon,Tidak beraturan,Halus,1,0,Merah,Basah,17,Restoran,Tinggi,Pakan Ternak
+579,Styrofoam bekas makanan,Bulat,Keras,0,1,Kuning,Basah,201,Pertanian,Rendah,Tidak Dapat Diolah
+580,Kulit bawang,Kotak,Keras,1,0,Silver,Basah,205,Rumah Tangga,Sedang,Kompos
+581,Sedotan plastik,Tidak beraturan,Tajam,0,1,Hitam,Kering,72,Rumah Tangga,Rendah,Tidak Dapat Diolah
+582,Rumput,Bulat,Tajam,1,0,Hitam,Basah,384,Industri,Sedang,Biogas
+583,Kaleng minuman,Pipih,Lembek,0,1,Coklat,Basah,468,Pertanian,Tinggi,Daur Ulang
+584,Kulit mangga,Tidak beraturan,Kasar,1,0,Putih,Basah,274,Sekolah,Sedang,Biogas
+585,Sedotan plastik,Pipih,Tajam,0,1,Hitam,Basah,94,Rumah Tangga,Sedang,Daur Ulang
+586,Kaleng minuman,Kotak,Halus,0,1,Kuning,Kering,382,Industri,Tinggi,Tidak Dapat Diolah
+587,Sisa makanan,Melengkung,Keras,1,0,Coklat,Kering,322,Sekolah,Rendah,Kompos
+588,Styrofoam bekas makanan,Bulat,Halus,0,1,Transparan,Kering,267,Pertanian,Sedang,Daur Ulang
+589,Kaca pecah,Silinder,Keras,0,1,Hitam,Kering,122,Pertanian,Sedang,Daur Ulang
+590,Ranting pohon,Bulat,Kasar,1,0,Coklat,Basah,335,Sekolah,Rendah,Pakan Ternak
+591,Kantong plastik,Tidak beraturan,Lembek,0,1,Silver,Basah,194,Pertanian,Sedang,Kerajinan
+592,Kantong plastik,Pipih,Halus,0,1,Silver,Basah,434,Pasar,Rendah,Daur Ulang
+593,Kulit bawang,Tidak beraturan,Tajam,1,0,Hijau,Basah,22,Restoran,Sedang,Pakan Ternak
+594,Ranting pohon,Pipih,Halus,1,0,Hitam,Basah,265,Restoran,Tinggi,Biogas
+595,Kaleng minuman,Silinder,Tajam,0,1,Silver,Basah,418,Sekolah,Rendah,Kerajinan
+596,Sisa buah,Pipih,Halus,1,0,Merah,Kering,377,Pertanian,Rendah,Pakan Ternak
+597,Daun kering,Melengkung,Tajam,1,0,Kuning,Kering,200,Sekolah,Sedang,Kompos
+598,Kulit pisang,Tidak beraturan,Tajam,1,0,Transparan,Kering,254,Rumah Tangga,Tinggi,Biogas
+599,Kardus bekas,Kotak,Keras,0,1,Coklat,Basah,299,Pasar,Tinggi,Daur Ulang
+600,Styrofoam bekas makanan,Kotak,Kasar,0,1,Coklat,Kering,209,Industri,Sedang,Daur Ulang
+601,Botol plastik,Bulat,Kasar,0,1,Silver,Basah,203,Pertanian,Sedang,Daur Ulang
+602,Paku berkarat,Kotak,Lembek,0,1,Hitam,Basah,75,Pertanian,Sedang,Daur Ulang
+603,Kaleng cat,Kotak,Keras,0,1,Merah,Kering,246,Rumah Tangga,Tinggi,Daur Ulang
+604,Kulit bawang,Kotak,Tajam,1,0,Merah,Basah,386,Pasar,Rendah,Kompos
+605,Daun kering,Bulat,Halus,1,0,Silver,Kering,292,Rumah Tangga,Rendah,Pakan Ternak
+606,Tulang ayam,Melengkung,Halus,1,0,Merah,Kering,344,Rumah Tangga,Tinggi,Kompos
+607,Rumput,Bulat,Halus,1,0,Coklat,Kering,336,Industri,Tinggi,Pakan Ternak
+608,Sedotan plastik,Tidak beraturan,Lembek,0,1,Transparan,Kering,141,Restoran,Tinggi,Kerajinan
+609,Kantong plastik,Melengkung,Lembek,0,1,Hijau,Kering,12,Restoran,Tinggi,Daur Ulang
+610,Kulit mangga,Melengkung,Tajam,1,0,Coklat,Basah,233,Restoran,Tinggi,Kompos
+611,Paku berkarat,Pipih,Keras,0,1,Merah,Kering,309,Pertanian,Sedang,Daur Ulang
+612,Botol plastik,Tidak beraturan,Kasar,0,1,Silver,Kering,392,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+613,Ban bekas,Kotak,Halus,0,1,Merah,Basah,61,Restoran,Sedang,Tidak Dapat Diolah
+614,Kaleng cat,Tidak beraturan,Tajam,0,1,Kuning,Kering,353,Industri,Tinggi,Tidak Dapat Diolah
+615,Botol plastik,Silinder,Tajam,0,1,Hijau,Basah,342,Pasar,Tinggi,Daur Ulang
+616,Ban bekas,Tidak beraturan,Tajam,0,1,Hijau,Basah,347,Industri,Tinggi,Daur Ulang
+617,Kulit mangga,Kotak,Kasar,1,0,Coklat,Kering,146,Rumah Tangga,Sedang,Kompos
+618,Kaleng cat,Bulat,Tajam,0,1,Coklat,Basah,360,Restoran,Tinggi,Daur Ulang
+619,Rumput,Kotak,Kasar,1,0,Transparan,Basah,366,Restoran,Rendah,Biogas
+620,Kardus bekas,Tidak beraturan,Lembek,0,1,Hijau,Kering,364,Pertanian,Tinggi,Daur Ulang
+621,Sisa buah,Melengkung,Keras,1,0,Hijau,Basah,319,Rumah Tangga,Tinggi,Pakan Ternak
+622,Kaleng cat,Silinder,Keras,0,1,Coklat,Kering,60,Sekolah,Sedang,Kerajinan
+623,Rumput,Bulat,Halus,1,0,Coklat,Kering,119,Restoran,Tinggi,Pakan Ternak
+624,Kantong plastik,Melengkung,Tajam,0,1,Merah,Basah,125,Restoran,Tinggi,Tidak Dapat Diolah
+625,Kaleng minuman,Silinder,Keras,0,1,Hitam,Kering,49,Industri,Rendah,Kerajinan
+626,Kantong plastik,Tidak beraturan,Halus,0,1,Hijau,Basah,492,Pasar,Tinggi,Daur Ulang
+627,Rumput,Bulat,Kasar,1,0,Putih,Basah,207,Rumah Tangga,Rendah,Biogas
+628,Styrofoam bekas makanan,Melengkung,Kasar,0,1,Merah,Kering,5,Restoran,Tinggi,Tidak Dapat Diolah
+629,Styrofoam bekas makanan,Tidak beraturan,Lembek,0,1,Merah,Kering,156,Industri,Tinggi,Tidak Dapat Diolah
+630,Kaleng minuman,Pipih,Keras,0,1,Putih,Kering,492,Industri,Sedang,Tidak Dapat Diolah
+631,Tulang ayam,Tidak beraturan,Kasar,1,0,Transparan,Basah,46,Pasar,Sedang,Biogas
+632,Kaleng cat,Tidak beraturan,Tajam,0,1,Hijau,Kering,38,Pasar,Rendah,Daur Ulang
+633,Kulit pisang,Tidak beraturan,Tajam,1,0,Putih,Basah,420,Sekolah,Sedang,Kompos
+634,Kardus bekas,Kotak,Tajam,0,1,Hijau,Kering,482,Pertanian,Tinggi,Tidak Dapat Diolah
+635,Sisa sayuran,Kotak,Lembek,1,0,Kuning,Kering,361,Sekolah,Tinggi,Pakan Ternak
+636,Kaleng cat,Melengkung,Kasar,0,1,Hitam,Basah,374,Pasar,Sedang,Kerajinan
+637,Ranting pohon,Kotak,Keras,1,0,Merah,Kering,10,Pasar,Sedang,Biogas
+638,Botol plastik,Tidak beraturan,Tajam,0,1,Putih,Basah,34,Industri,Rendah,Kerajinan
+639,Kaca pecah,Pipih,Kasar,0,1,Transparan,Kering,75,Rumah Tangga,Tinggi,Kerajinan
+640,Kardus bekas,Pipih,Tajam,0,1,Transparan,Kering,13,Sekolah,Sedang,Kerajinan
+641,Kaleng cat,Tidak beraturan,Keras,0,1,Kuning,Kering,155,Industri,Tinggi,Tidak Dapat Diolah
+642,Kulit bawang,Melengkung,Tajam,1,0,Hitam,Kering,417,Rumah Tangga,Rendah,Pakan Ternak
+643,Kulit mangga,Melengkung,Halus,1,0,Coklat,Kering,177,Industri,Sedang,Pakan Ternak
+644,Paku berkarat,Silinder,Lembek,0,1,Hitam,Basah,181,Restoran,Sedang,Daur Ulang
+645,Paku berkarat,Melengkung,Kasar,0,1,Silver,Basah,45,Pertanian,Tinggi,Daur Ulang
+646,Kardus bekas,Silinder,Kasar,0,1,Kuning,Basah,92,Pasar,Tinggi,Daur Ulang
+647,Rumput,Bulat,Kasar,1,0,Putih,Basah,86,Industri,Sedang,Biogas
+648,Tulang ayam,Pipih,Lembek,1,0,Silver,Basah,363,Pasar,Rendah,Kompos
+649,Sisa buah,Kotak,Lembek,1,0,Merah,Kering,169,Pertanian,Tinggi,Biogas
+650,Kaleng minuman,Bulat,Kasar,0,1,Transparan,Basah,279,Industri,Tinggi,Daur Ulang
+651,Styrofoam bekas makanan,Silinder,Lembek,0,1,Hijau,Kering,112,Restoran,Rendah,Daur Ulang
+652,Sedotan plastik,Melengkung,Halus,0,1,Kuning,Basah,6,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+653,Sisa sayuran,Bulat,Tajam,1,0,Kuning,Basah,131,Pertanian,Tinggi,Biogas
+654,Paku berkarat,Silinder,Keras,0,1,Hitam,Basah,400,Rumah Tangga,Sedang,Tidak Dapat Diolah
+655,Sisa makanan,Silinder,Kasar,1,0,Kuning,Kering,346,Pasar,Rendah,Pakan Ternak
+656,Tulang ayam,Melengkung,Halus,1,0,Merah,Kering,408,Rumah Tangga,Sedang,Biogas
+657,Sisa sayuran,Silinder,Keras,1,0,Merah,Kering,493,Rumah Tangga,Tinggi,Biogas
+658,Kantong plastik,Melengkung,Keras,0,1,Hitam,Kering,5,Industri,Sedang,Kerajinan
+659,Botol plastik,Pipih,Kasar,0,1,Merah,Basah,75,Restoran,Tinggi,Tidak Dapat Diolah
+660,Paku berkarat,Bulat,Kasar,0,1,Merah,Basah,484,Restoran,Tinggi,Daur Ulang
+661,Ban bekas,Silinder,Keras,0,1,Putih,Basah,372,Pasar,Tinggi,Tidak Dapat Diolah
+662,Ban bekas,Bulat,Kasar,0,1,Transparan,Kering,376,Pasar,Sedang,Daur Ulang
+663,Sedotan plastik,Kotak,Kasar,0,1,Coklat,Kering,11,Industri,Sedang,Kerajinan
+664,Sedotan plastik,Silinder,Lembek,0,1,Merah,Basah,265,Industri,Rendah,Daur Ulang
+665,Paku berkarat,Kotak,Halus,0,1,Putih,Kering,135,Pasar,Tinggi,Kerajinan
+666,Sisa buah,Pipih,Halus,1,0,Coklat,Basah,126,Rumah Tangga,Rendah,Kompos
+667,Rumput,Bulat,Kasar,1,0,Kuning,Basah,274,Rumah Tangga,Tinggi,Kompos
+668,Kulit mangga,Kotak,Keras,1,0,Kuning,Basah,471,Industri,Sedang,Biogas
+669,Sisa sayuran,Melengkung,Halus,1,0,Hijau,Kering,6,Rumah Tangga,Sedang,Biogas
+670,Rumput,Silinder,Lembek,1,0,Merah,Basah,394,Rumah Tangga,Tinggi,Pakan Ternak
+671,Kulit bawang,Kotak,Keras,1,0,Merah,Kering,342,Sekolah,Sedang,Pakan Ternak
+672,Sisa sayuran,Silinder,Halus,1,0,Kuning,Basah,78,Sekolah,Tinggi,Biogas
+673,Kardus bekas,Melengkung,Halus,0,1,Coklat,Kering,25,Industri,Rendah,Kerajinan
+674,Rumput,Kotak,Kasar,1,0,Merah,Basah,38,Restoran,Sedang,Biogas
+675,Sisa makanan,Melengkung,Kasar,1,0,Transparan,Kering,162,Sekolah,Tinggi,Biogas
+676,Rumput,Pipih,Halus,1,0,Transparan,Kering,299,Pertanian,Tinggi,Pakan Ternak
+677,Paku berkarat,Melengkung,Keras,0,1,Transparan,Basah,11,Pasar,Tinggi,Kerajinan
+678,Daun kering,Kotak,Halus,1,0,Silver,Basah,395,Pertanian,Rendah,Kompos
+679,Kardus bekas,Kotak,Halus,0,1,Coklat,Basah,492,Pasar,Sedang,Kerajinan
+680,Rumput,Tidak beraturan,Tajam,1,0,Hitam,Basah,347,Pertanian,Rendah,Pakan Ternak
+681,Sisa sayuran,Silinder,Halus,1,0,Putih,Basah,12,Industri,Sedang,Pakan Ternak
+682,Sisa makanan,Pipih,Tajam,1,0,Silver,Kering,239,Pertanian,Tinggi,Pakan Ternak
+683,Ranting pohon,Tidak beraturan,Tajam,1,0,Putih,Basah,379,Sekolah,Sedang,Kompos
+684,Kardus bekas,Bulat,Halus,0,1,Kuning,Basah,110,Sekolah,Rendah,Tidak Dapat Diolah
+685,Kantong plastik,Kotak,Keras,0,1,Hitam,Kering,392,Sekolah,Rendah,Daur Ulang
+686,Styrofoam bekas makanan,Pipih,Halus,0,1,Putih,Kering,143,Industri,Rendah,Tidak Dapat Diolah
+687,Kulit pisang,Tidak beraturan,Tajam,1,0,Coklat,Basah,366,Industri,Rendah,Kompos
+688,Sisa sayuran,Kotak,Halus,1,0,Silver,Basah,174,Pertanian,Rendah,Kompos
+689,Kulit bawang,Bulat,Kasar,1,0,Transparan,Basah,229,Pasar,Rendah,Biogas
+690,Sisa sayuran,Bulat,Kasar,1,0,Silver,Kering,477,Restoran,Tinggi,Biogas
+691,Rumput,Bulat,Lembek,1,0,Putih,Kering,202,Sekolah,Sedang,Biogas
+692,Kardus bekas,Kotak,Halus,0,1,Transparan,Basah,266,Pertanian,Tinggi,Tidak Dapat Diolah
+693,Kantong plastik,Pipih,Lembek,0,1,Kuning,Kering,395,Industri,Sedang,Tidak Dapat Diolah
+694,Botol plastik,Tidak beraturan,Halus,0,1,Putih,Kering,495,Rumah Tangga,Sedang,Kerajinan
+695,Kaleng cat,Pipih,Keras,0,1,Kuning,Kering,442,Restoran,Rendah,Tidak Dapat Diolah
+696,Kaleng minuman,Kotak,Halus,0,1,Kuning,Basah,420,Industri,Rendah,Daur Ulang
+697,Ranting pohon,Silinder,Tajam,1,0,Transparan,Kering,131,Sekolah,Tinggi,Pakan Ternak
+698,Kaleng minuman,Tidak beraturan,Keras,0,1,Transparan,Kering,58,Sekolah,Sedang,Kerajinan
+699,Tulang ayam,Kotak,Tajam,1,0,Hitam,Basah,415,Industri,Tinggi,Pakan Ternak
+700,Kardus bekas,Kotak,Lembek,0,1,Putih,Basah,432,Industri,Tinggi,Daur Ulang
+701,Sisa buah,Bulat,Halus,1,0,Kuning,Basah,178,Industri,Rendah,Kompos
+702,Kulit mangga,Melengkung,Keras,1,0,Silver,Kering,38,Rumah Tangga,Sedang,Biogas
+703,Kaca pecah,Tidak beraturan,Halus,0,1,Coklat,Kering,81,Rumah Tangga,Sedang,Kerajinan
+704,Botol plastik,Pipih,Halus,0,1,Hijau,Basah,172,Restoran,Rendah,Daur Ulang
+705,Paku berkarat,Tidak beraturan,Keras,0,1,Hitam,Kering,157,Industri,Rendah,Tidak Dapat Diolah
+706,Styrofoam bekas makanan,Tidak beraturan,Halus,0,1,Silver,Basah,100,Restoran,Rendah,Tidak Dapat Diolah
+707,Kaleng cat,Kotak,Tajam,0,1,Kuning,Basah,332,Sekolah,Rendah,Daur Ulang
+708,Kulit mangga,Melengkung,Kasar,1,0,Coklat,Basah,315,Pasar,Sedang,Pakan Ternak
+709,Kardus bekas,Pipih,Kasar,0,1,Transparan,Kering,159,Rumah Tangga,Sedang,Tidak Dapat Diolah
+710,Paku berkarat,Kotak,Keras,0,1,Kuning,Basah,77,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+711,Kardus bekas,Bulat,Keras,0,1,Transparan,Basah,363,Restoran,Rendah,Tidak Dapat Diolah
+712,Kardus bekas,Kotak,Tajam,0,1,Kuning,Basah,311,Pertanian,Rendah,Tidak Dapat Diolah
+713,Botol plastik,Kotak,Kasar,0,1,Silver,Kering,310,Pertanian,Tinggi,Kerajinan
+714,Kulit pisang,Silinder,Kasar,1,0,Putih,Kering,396,Industri,Tinggi,Pakan Ternak
+715,Kaleng cat,Silinder,Halus,0,1,Silver,Kering,124,Sekolah,Rendah,Daur Ulang
+716,Ban bekas,Silinder,Keras,0,1,Merah,Kering,224,Restoran,Tinggi,Kerajinan
+717,Kulit mangga,Melengkung,Lembek,1,0,Transparan,Basah,448,Industri,Sedang,Kompos
+718,Sedotan plastik,Bulat,Keras,0,1,Hijau,Kering,67,Sekolah,Sedang,Tidak Dapat Diolah
+719,Rumput,Tidak beraturan,Kasar,1,0,Kuning,Kering,202,Industri,Rendah,Kompos
+720,Sisa makanan,Bulat,Halus,1,0,Hijau,Kering,21,Sekolah,Rendah,Pakan Ternak
+721,Sisa makanan,Tidak beraturan,Lembek,1,0,Transparan,Basah,249,Pasar,Sedang,Pakan Ternak
+722,Sedotan plastik,Tidak beraturan,Lembek,0,1,Coklat,Basah,352,Pasar,Rendah,Tidak Dapat Diolah
+723,Kulit mangga,Tidak beraturan,Tajam,1,0,Putih,Basah,368,Rumah Tangga,Rendah,Pakan Ternak
+724,Kantong plastik,Tidak beraturan,Lembek,0,1,Putih,Basah,373,Industri,Rendah,Kerajinan
+725,Botol plastik,Tidak beraturan,Keras,0,1,Kuning,Kering,136,Pasar,Tinggi,Kerajinan
+726,Rumput,Kotak,Tajam,1,0,Hitam,Kering,271,Sekolah,Rendah,Kompos
+727,Ban bekas,Melengkung,Lembek,0,1,Kuning,Kering,131,Rumah Tangga,Tinggi,Daur Ulang
+728,Sisa buah,Bulat,Halus,1,0,Hitam,Kering,46,Rumah Tangga,Sedang,Pakan Ternak
+729,Kaleng cat,Silinder,Kasar,0,1,Hitam,Kering,329,Rumah Tangga,Tinggi,Daur Ulang
+730,Tulang ayam,Bulat,Keras,1,0,Transparan,Kering,261,Industri,Tinggi,Pakan Ternak
+731,Ban bekas,Tidak beraturan,Keras,0,1,Hijau,Basah,295,Industri,Rendah,Daur Ulang
+732,Kardus bekas,Silinder,Halus,0,1,Hitam,Basah,456,Pertanian,Tinggi,Kerajinan
+733,Sisa makanan,Pipih,Kasar,1,0,Transparan,Kering,398,Pasar,Tinggi,Pakan Ternak
+734,Kulit pisang,Melengkung,Kasar,1,0,Transparan,Kering,97,Rumah Tangga,Tinggi,Pakan Ternak
+735,Kardus bekas,Melengkung,Lembek,0,1,Transparan,Kering,399,Pertanian,Rendah,Daur Ulang
+736,Ban bekas,Melengkung,Halus,0,1,Hijau,Basah,29,Pasar,Rendah,Kerajinan
+737,Kaleng minuman,Bulat,Keras,0,1,Silver,Basah,154,Industri,Tinggi,Daur Ulang
+738,Kaca pecah,Melengkung,Lembek,0,1,Merah,Basah,21,Rumah Tangga,Rendah,Kerajinan
+739,Kaca pecah,Silinder,Lembek,0,1,Silver,Basah,162,Rumah Tangga,Rendah,Kerajinan
+740,Kardus bekas,Pipih,Lembek,0,1,Kuning,Basah,431,Pasar,Tinggi,Tidak Dapat Diolah
+741,Kantong plastik,Kotak,Tajam,0,1,Coklat,Kering,60,Sekolah,Tinggi,Kerajinan
+742,Kardus bekas,Bulat,Kasar,0,1,Merah,Basah,354,Pasar,Tinggi,Kerajinan
+743,Daun kering,Tidak beraturan,Kasar,1,0,Kuning,Basah,208,Restoran,Sedang,Pakan Ternak
+744,Rumput,Melengkung,Keras,1,0,Kuning,Basah,375,Rumah Tangga,Sedang,Pakan Ternak
+745,Sisa makanan,Kotak,Halus,1,0,Hijau,Kering,415,Pasar,Tinggi,Biogas
+746,Styrofoam bekas makanan,Tidak beraturan,Keras,0,1,Putih,Basah,335,Industri,Tinggi,Kerajinan
+747,Daun kering,Kotak,Kasar,1,0,Coklat,Basah,372,Pasar,Rendah,Biogas
+748,Kaleng minuman,Melengkung,Keras,0,1,Hijau,Kering,199,Pertanian,Tinggi,Kerajinan
+749,Kaleng cat,Silinder,Halus,0,1,Kuning,Basah,467,Pasar,Tinggi,Tidak Dapat Diolah
+750,Kardus bekas,Melengkung,Lembek,0,1,Kuning,Basah,460,Restoran,Sedang,Kerajinan
+751,Paku berkarat,Bulat,Kasar,0,1,Hitam,Basah,424,Industri,Tinggi,Kerajinan
+752,Styrofoam bekas makanan,Tidak beraturan,Halus,0,1,Hitam,Kering,465,Industri,Tinggi,Daur Ulang
+753,Ranting pohon,Tidak beraturan,Keras,1,0,Hijau,Basah,179,Rumah Tangga,Rendah,Pakan Ternak
+754,Styrofoam bekas makanan,Kotak,Lembek,0,1,Merah,Basah,81,Rumah Tangga,Tinggi,Daur Ulang
+755,Sisa buah,Bulat,Keras,1,0,Putih,Basah,77,Pasar,Rendah,Biogas
+756,Paku berkarat,Silinder,Halus,0,1,Silver,Kering,100,Restoran,Sedang,Kerajinan
+757,Sisa buah,Melengkung,Tajam,1,0,Coklat,Basah,126,Pertanian,Sedang,Biogas
+758,Kaca pecah,Kotak,Halus,0,1,Hijau,Basah,324,Rumah Tangga,Sedang,Kerajinan
+759,Sedotan plastik,Pipih,Tajam,0,1,Kuning,Kering,174,Sekolah,Sedang,Kerajinan
+760,Ranting pohon,Silinder,Keras,1,0,Merah,Kering,18,Rumah Tangga,Rendah,Biogas
+761,Sedotan plastik,Pipih,Keras,0,1,Hitam,Kering,318,Sekolah,Rendah,Tidak Dapat Diolah
+762,Kulit mangga,Kotak,Lembek,1,0,Hijau,Kering,174,Rumah Tangga,Tinggi,Pakan Ternak
+763,Ban bekas,Melengkung,Keras,0,1,Hitam,Kering,236,Pasar,Tinggi,Kerajinan
+764,Sisa sayuran,Melengkung,Tajam,1,0,Silver,Kering,36,Rumah Tangga,Tinggi,Pakan Ternak
+765,Kulit mangga,Bulat,Halus,1,0,Hijau,Basah,465,Pertanian,Tinggi,Kompos
+766,Daun kering,Pipih,Keras,1,0,Silver,Basah,270,Restoran,Rendah,Biogas
+767,Rumput,Silinder,Halus,1,0,Hitam,Basah,271,Pasar,Tinggi,Biogas
+768,Styrofoam bekas makanan,Silinder,Kasar,0,1,Merah,Kering,290,Pasar,Tinggi,Kerajinan
+769,Sedotan plastik,Silinder,Halus,0,1,Coklat,Kering,214,Sekolah,Rendah,Kerajinan
+770,Kaleng minuman,Melengkung,Keras,0,1,Merah,Kering,296,Sekolah,Tinggi,Daur Ulang
+771,Styrofoam bekas makanan,Bulat,Kasar,0,1,Putih,Basah,313,Sekolah,Rendah,Daur Ulang
+772,Rumput,Melengkung,Kasar,1,0,Kuning,Kering,173,Pertanian,Rendah,Kompos
+773,Kaleng cat,Silinder,Keras,0,1,Hijau,Basah,299,Pasar,Sedang,Daur Ulang
+774,Kaleng minuman,Tidak beraturan,Kasar,0,1,Coklat,Basah,24,Sekolah,Rendah,Daur Ulang
+775,Sisa sayuran,Melengkung,Kasar,1,0,Transparan,Kering,453,Restoran,Rendah,Kompos
+776,Ranting pohon,Tidak beraturan,Tajam,1,0,Hitam,Kering,190,Sekolah,Sedang,Kompos
+777,Kaleng minuman,Tidak beraturan,Kasar,0,1,Coklat,Kering,164,Sekolah,Sedang,Kerajinan
+778,Kulit mangga,Tidak beraturan,Lembek,1,0,Hitam,Kering,267,Restoran,Tinggi,Kompos
+779,Styrofoam bekas makanan,Pipih,Tajam,0,1,Transparan,Basah,398,Restoran,Sedang,Daur Ulang
+780,Styrofoam bekas makanan,Melengkung,Halus,0,1,Silver,Kering,398,Rumah Tangga,Sedang,Tidak Dapat Diolah
+781,Kaleng cat,Pipih,Lembek,0,1,Silver,Kering,96,Restoran,Tinggi,Kerajinan
+782,Kulit mangga,Pipih,Tajam,1,0,Transparan,Basah,122,Pasar,Rendah,Pakan Ternak
+783,Styrofoam bekas makanan,Kotak,Keras,0,1,Hitam,Basah,449,Pertanian,Tinggi,Daur Ulang
+784,Sisa sayuran,Tidak beraturan,Kasar,1,0,Coklat,Kering,34,Rumah Tangga,Tinggi,Biogas
+785,Kaleng cat,Silinder,Halus,0,1,Transparan,Basah,430,Rumah Tangga,Sedang,Kerajinan
+786,Daun kering,Tidak beraturan,Keras,1,0,Transparan,Basah,369,Pertanian,Rendah,Biogas
+787,Kardus bekas,Bulat,Tajam,0,1,Transparan,Basah,54,Rumah Tangga,Tinggi,Kerajinan
+788,Styrofoam bekas makanan,Tidak beraturan,Lembek,0,1,Kuning,Basah,295,Sekolah,Rendah,Tidak Dapat Diolah
+789,Paku berkarat,Bulat,Kasar,0,1,Hitam,Kering,482,Restoran,Sedang,Tidak Dapat Diolah
+790,Kaleng cat,Pipih,Halus,0,1,Hijau,Kering,69,Industri,Rendah,Kerajinan
+791,Sisa sayuran,Kotak,Keras,1,0,Coklat,Basah,132,Restoran,Sedang,Biogas
+792,Kulit mangga,Pipih,Lembek,1,0,Putih,Kering,356,Industri,Sedang,Pakan Ternak
+793,Tulang ayam,Pipih,Lembek,1,0,Silver,Basah,245,Rumah Tangga,Sedang,Biogas
+794,Kaleng minuman,Silinder,Tajam,0,1,Hitam,Kering,286,Pasar,Sedang,Tidak Dapat Diolah
+795,Ban bekas,Tidak beraturan,Keras,0,1,Transparan,Kering,463,Industri,Sedang,Kerajinan
+796,Ban bekas,Bulat,Kasar,0,1,Silver,Kering,451,Restoran,Tinggi,Daur Ulang
+797,Kantong plastik,Kotak,Lembek,0,1,Silver,Kering,361,Pertanian,Tinggi,Tidak Dapat Diolah
+798,Ranting pohon,Pipih,Tajam,1,0,Kuning,Kering,120,Industri,Rendah,Kompos
+799,Ban bekas,Kotak,Tajam,0,1,Coklat,Kering,154,Pertanian,Sedang,Daur Ulang
+800,Paku berkarat,Pipih,Lembek,0,1,Hitam,Basah,378,Rumah Tangga,Sedang,Tidak Dapat Diolah
+801,Kaleng minuman,Melengkung,Tajam,0,1,Hitam,Basah,315,Pasar,Rendah,Kerajinan
+802,Rumput,Kotak,Tajam,1,0,Hijau,Basah,97,Pertanian,Rendah,Kompos
+803,Sisa buah,Melengkung,Halus,1,0,Transparan,Basah,138,Rumah Tangga,Sedang,Biogas
+804,Sedotan plastik,Tidak beraturan,Kasar,0,1,Putih,Basah,32,Pasar,Rendah,Tidak Dapat Diolah
+805,Ranting pohon,Bulat,Halus,1,0,Kuning,Kering,379,Pertanian,Sedang,Kompos
+806,Kardus bekas,Silinder,Halus,0,1,Merah,Kering,37,Industri,Rendah,Kerajinan
+807,Kantong plastik,Silinder,Tajam,0,1,Hijau,Kering,222,Pasar,Tinggi,Kerajinan
+808,Kulit bawang,Kotak,Halus,1,0,Coklat,Basah,291,Sekolah,Tinggi,Kompos
+809,Paku berkarat,Bulat,Halus,0,1,Merah,Basah,477,Sekolah,Sedang,Tidak Dapat Diolah
+810,Sedotan plastik,Melengkung,Lembek,0,1,Silver,Kering,35,Industri,Rendah,Kerajinan
+811,Sisa buah,Bulat,Halus,1,0,Silver,Basah,441,Pasar,Rendah,Biogas
+812,Styrofoam bekas makanan,Melengkung,Halus,0,1,Merah,Kering,65,Pertanian,Sedang,Tidak Dapat Diolah
+813,Kantong plastik,Silinder,Halus,0,1,Merah,Kering,167,Restoran,Sedang,Daur Ulang
+814,Kaleng minuman,Bulat,Tajam,0,1,Silver,Basah,331,Pertanian,Rendah,Kerajinan
+815,Ranting pohon,Kotak,Tajam,1,0,Transparan,Basah,338,Pertanian,Tinggi,Pakan Ternak
+816,Sisa sayuran,Melengkung,Halus,1,0,Putih,Basah,230,Industri,Tinggi,Pakan Ternak
+817,Ranting pohon,Pipih,Keras,1,0,Silver,Basah,497,Pertanian,Rendah,Pakan Ternak
+818,Rumput,Melengkung,Lembek,1,0,Kuning,Kering,65,Industri,Rendah,Pakan Ternak
+819,Kantong plastik,Kotak,Keras,0,1,Silver,Basah,265,Pertanian,Tinggi,Kerajinan
+820,Sedotan plastik,Kotak,Halus,0,1,Kuning,Basah,138,Restoran,Tinggi,Tidak Dapat Diolah
+821,Ban bekas,Tidak beraturan,Lembek,0,1,Kuning,Kering,344,Industri,Rendah,Tidak Dapat Diolah
+822,Ranting pohon,Melengkung,Lembek,1,0,Hitam,Basah,399,Industri,Tinggi,Biogas
+823,Kantong plastik,Kotak,Tajam,0,1,Putih,Basah,323,Pasar,Tinggi,Tidak Dapat Diolah
+824,Kaca pecah,Tidak beraturan,Halus,0,1,Silver,Basah,97,Sekolah,Tinggi,Kerajinan
+825,Rumput,Melengkung,Halus,1,0,Silver,Basah,484,Pasar,Rendah,Kompos
+826,Styrofoam bekas makanan,Bulat,Lembek,0,1,Transparan,Kering,243,Restoran,Tinggi,Daur Ulang
+827,Kulit mangga,Silinder,Keras,1,0,Coklat,Kering,167,Industri,Sedang,Biogas
+828,Rumput,Kotak,Tajam,1,0,Merah,Basah,43,Pertanian,Sedang,Biogas
+829,Kulit pisang,Silinder,Tajam,1,0,Merah,Kering,149,Industri,Sedang,Kompos
+830,Styrofoam bekas makanan,Pipih,Lembek,0,1,Putih,Basah,305,Sekolah,Sedang,Daur Ulang
+831,Sisa buah,Pipih,Keras,1,0,Merah,Kering,486,Pertanian,Rendah,Biogas
+832,Kulit pisang,Silinder,Kasar,1,0,Putih,Basah,138,Sekolah,Tinggi,Pakan Ternak
+833,Rumput,Pipih,Kasar,1,0,Putih,Basah,275,Pertanian,Tinggi,Biogas
+834,Botol plastik,Kotak,Halus,0,1,Hijau,Basah,16,Sekolah,Rendah,Kerajinan
+835,Kantong plastik,Pipih,Lembek,0,1,Transparan,Kering,247,Rumah Tangga,Tinggi,Tidak Dapat Diolah
+836,Kantong plastik,Silinder,Keras,0,1,Transparan,Basah,316,Industri,Sedang,Daur Ulang
+837,Kulit mangga,Pipih,Kasar,1,0,Silver,Basah,414,Pertanian,Sedang,Kompos
+838,Sedotan plastik,Melengkung,Halus,0,1,Putih,Basah,469,Rumah Tangga,Rendah,Tidak Dapat Diolah
+839,Kaca pecah,Silinder,Lembek,0,1,Hijau,Kering,7,Sekolah,Rendah,Kerajinan
+840,Daun kering,Silinder,Halus,1,0,Silver,Kering,146,Rumah Tangga,Tinggi,Biogas
+841,Sedotan plastik,Kotak,Halus,0,1,Kuning,Basah,77,Industri,Rendah,Kerajinan
+842,Kaca pecah,Silinder,Tajam,0,1,Kuning,Basah,279,Pertanian,Tinggi,Daur Ulang
+843,Sedotan plastik,Kotak,Lembek,0,1,Merah,Kering,78,Restoran,Sedang,Daur Ulang
+844,Styrofoam bekas makanan,Bulat,Halus,0,1,Hijau,Basah,98,Industri,Tinggi,Kerajinan
+845,Kulit mangga,Bulat,Halus,1,0,Merah,Kering,346,Industri,Rendah,Biogas
+846,Sisa sayuran,Pipih,Kasar,1,0,Silver,Basah,289,Pasar,Sedang,Kompos
+847,Sisa sayuran,Kotak,Lembek,1,0,Transparan,Kering,351,Restoran,Sedang,Kompos
+848,Kaca pecah,Pipih,Tajam,0,1,Merah,Basah,490,Pasar,Tinggi,Kerajinan
+849,Rumput,Silinder,Kasar,1,0,Kuning,Basah,224,Pasar,Rendah,Pakan Ternak
+850,Sisa buah,Silinder,Halus,1,0,Hitam,Kering,300,Sekolah,Tinggi,Biogas
+851,Kaca pecah,Melengkung,Lembek,0,1,Putih,Kering,491,Pertanian,Sedang,Tidak Dapat Diolah
+852,Paku berkarat,Pipih,Lembek,0,1,Hijau,Basah,489,Pasar,Tinggi,Daur Ulang
+853,Kardus bekas,Bulat,Lembek,0,1,Transparan,Kering,338,Sekolah,Tinggi,Kerajinan
+854,Kaleng minuman,Silinder,Halus,0,1,Kuning,Kering,235,Pertanian,Sedang,Kerajinan
+855,Ban bekas,Tidak beraturan,Kasar,0,1,Kuning,Basah,295,Rumah Tangga,Sedang,Tidak Dapat Diolah
+856,Kaleng minuman,Silinder,Halus,0,1,Coklat,Basah,327,Rumah Tangga,Rendah,Kerajinan
+857,Rumput,Bulat,Lembek,1,0,Merah,Basah,345,Sekolah,Rendah,Kompos
+858,Kaleng minuman,Kotak,Tajam,0,1,Hitam,Basah,492,Restoran,Rendah,Tidak Dapat Diolah
+859,Sisa buah,Kotak,Kasar,1,0,Silver,Kering,29,Sekolah,Rendah,Pakan Ternak
+860,Kulit mangga,Silinder,Keras,1,0,Putih,Basah,35,Pasar,Sedang,Kompos
+861,Kaleng cat,Bulat,Keras,0,1,Merah,Basah,319,Restoran,Tinggi,Kerajinan
+862,Ranting pohon,Pipih,Kasar,1,0,Hijau,Kering,206,Industri,Rendah,Pakan Ternak
+863,Ranting pohon,Kotak,Halus,1,0,Kuning,Basah,498,Restoran,Tinggi,Kompos
+864,Daun kering,Tidak beraturan,Halus,1,0,Coklat,Kering,246,Rumah Tangga,Sedang,Biogas
+865,Tulang ayam,Kotak,Lembek,1,0,Kuning,Kering,206,Pertanian,Sedang,Pakan Ternak
+866,Sisa buah,Bulat,Kasar,1,0,Hitam,Kering,205,Rumah Tangga,Sedang,Pakan Ternak
+867,Kulit pisang,Bulat,Kasar,1,0,Silver,Kering,370,Pertanian,Sedang,Biogas
+868,Kaca pecah,Melengkung,Halus,0,1,Silver,Kering,205,Rumah Tangga,Sedang,Tidak Dapat Diolah
+869,Tulang ayam,Kotak,Lembek,1,0,Hitam,Kering,206,Industri,Tinggi,Biogas
+870,Kaleng minuman,Bulat,Halus,0,1,Silver,Basah,417,Pasar,Rendah,Tidak Dapat Diolah
+871,Tulang ayam,Kotak,Keras,1,0,Putih,Basah,453,Pasar,Sedang,Kompos
+872,Kulit mangga,Silinder,Kasar,1,0,Putih,Basah,384,Restoran,Rendah,Pakan Ternak
+873,Kulit mangga,Tidak beraturan,Lembek,1,0,Coklat,Kering,345,Pasar,Rendah,Pakan Ternak
+874,Ban bekas,Kotak,Lembek,0,1,Hitam,Basah,358,Pasar,Tinggi,Kerajinan
+875,Ban bekas,Melengkung,Kasar,0,1,Hitam,Basah,109,Sekolah,Rendah,Kerajinan
+876,Kaleng minuman,Pipih,Tajam,0,1,Silver,Kering,212,Industri,Tinggi,Tidak Dapat Diolah
+877,Paku berkarat,Tidak beraturan,Tajam,0,1,Coklat,Basah,330,Pertanian,Rendah,Daur Ulang
+878,Kulit mangga,Silinder,Keras,1,0,Silver,Basah,460,Pertanian,Rendah,Pakan Ternak
+879,Sisa sayuran,Silinder,Lembek,1,0,Merah,Kering,93,Industri,Rendah,Kompos
+880,Tulang ayam,Pipih,Keras,1,0,Kuning,Basah,114,Pasar,Rendah,Biogas
+881,Kantong plastik,Tidak beraturan,Halus,0,1,Coklat,Basah,493,Pertanian,Tinggi,Daur Ulang
+882,Kaleng minuman,Silinder,Tajam,0,1,Merah,Basah,149,Rumah Tangga,Sedang,Kerajinan
+883,Sedotan plastik,Melengkung,Lembek,0,1,Silver,Basah,202,Restoran,Rendah,Kerajinan
+884,Sedotan plastik,Kotak,Keras,0,1,Coklat,Basah,463,Industri,Sedang,Kerajinan
+885,Ranting pohon,Tidak beraturan,Kasar,1,0,Coklat,Basah,258,Rumah Tangga,Sedang,Biogas
+886,Kulit mangga,Silinder,Keras,1,0,Kuning,Kering,172,Pertanian,Rendah,Pakan Ternak
+887,Kulit mangga,Kotak,Tajam,1,0,Hijau,Kering,61,Industri,Rendah,Kompos
+888,Sisa buah,Tidak beraturan,Halus,1,0,Putih,Basah,357,Industri,Sedang,Pakan Ternak
+889,Kulit pisang,Melengkung,Kasar,1,0,Kuning,Kering,266,Pertanian,Tinggi,Biogas
+890,Botol plastik,Tidak beraturan,Kasar,0,1,Merah,Basah,365,Sekolah,Sedang,Daur Ulang
+891,Botol plastik,Melengkung,Halus,0,1,Kuning,Kering,373,Pasar,Rendah,Daur Ulang
+892,Sisa buah,Silinder,Tajam,1,0,Silver,Basah,379,Restoran,Tinggi,Biogas
+893,Kantong plastik,Kotak,Lembek,0,1,Kuning,Kering,437,Industri,Rendah,Kerajinan
+894,Sisa sayuran,Melengkung,Halus,1,0,Coklat,Kering,347,Pasar,Sedang,Pakan Ternak
+895,Tulang ayam,Silinder,Halus,1,0,Hijau,Basah,263,Sekolah,Sedang,Biogas
+896,Styrofoam bekas makanan,Kotak,Keras,0,1,Merah,Kering,446,Rumah Tangga,Rendah,Daur Ulang
+897,Kulit pisang,Silinder,Keras,1,0,Merah,Basah,216,Sekolah,Tinggi,Pakan Ternak
+898,Daun kering,Bulat,Tajam,1,0,Putih,Kering,189,Sekolah,Tinggi,Biogas
+899,Kulit bawang,Kotak,Kasar,1,0,Hitam,Basah,426,Pertanian,Sedang,Biogas
+900,Botol plastik,Silinder,Keras,0,1,Putih,Kering,258,Pertanian,Sedang,Kerajinan
+901,Ban bekas,Bulat,Tajam,0,1,Coklat,Basah,487,Sekolah,Sedang,Tidak Dapat Diolah
+902,Kulit pisang,Bulat,Tajam,1,0,Transparan,Kering,208,Pertanian,Tinggi,Pakan Ternak
+903,Rumput,Tidak beraturan,Kasar,1,0,Putih,Basah,426,Rumah Tangga,Rendah,Pakan Ternak
+904,Kaca pecah,Bulat,Lembek,0,1,Silver,Basah,300,Rumah Tangga,Rendah,Daur Ulang
+905,Paku berkarat,Silinder,Kasar,0,1,Kuning,Kering,291,Industri,Tinggi,Daur Ulang
+906,Rumput,Silinder,Kasar,1,0,Merah,Kering,141,Restoran,Tinggi,Kompos
+907,Ban bekas,Pipih,Kasar,0,1,Merah,Kering,389,Rumah Tangga,Rendah,Kerajinan
+908,Styrofoam bekas makanan,Kotak,Tajam,0,1,Putih,Kering,250,Industri,Tinggi,Tidak Dapat Diolah
+909,Botol plastik,Melengkung,Keras,0,1,Merah,Basah,281,Pertanian,Sedang,Daur Ulang
+910,Kardus bekas,Melengkung,Kasar,0,1,Hitam,Basah,385,Pasar,Rendah,Kerajinan
+911,Daun kering,Bulat,Tajam,1,0,Coklat,Kering,139,Rumah Tangga,Rendah,Pakan Ternak
+912,Kaleng minuman,Tidak beraturan,Tajam,0,1,Kuning,Kering,21,Rumah Tangga,Rendah,Tidak Dapat Diolah
+913,Paku berkarat,Melengkung,Lembek,0,1,Kuning,Kering,225,Industri,Sedang,Daur Ulang
+914,Kaca pecah,Melengkung,Halus,0,1,Merah,Kering,213,Rumah Tangga,Sedang,Kerajinan
+915,Ban bekas,Tidak beraturan,Tajam,0,1,Kuning,Kering,343,Industri,Rendah,Kerajinan
+916,Kulit bawang,Melengkung,Kasar,1,0,Putih,Kering,462,Pertanian,Tinggi,Pakan Ternak
+917,Sisa buah,Silinder,Tajam,1,0,Putih,Kering,26,Pertanian,Tinggi,Pakan Ternak
+918,Sedotan plastik,Melengkung,Kasar,0,1,Hitam,Basah,448,Sekolah,Sedang,Tidak Dapat Diolah
+919,Styrofoam bekas makanan,Silinder,Lembek,0,1,Transparan,Kering,282,Industri,Sedang,Kerajinan
+920,Daun kering,Silinder,Tajam,1,0,Hijau,Basah,289,Industri,Sedang,Kompos
+921,Daun kering,Tidak beraturan,Lembek,1,0,Coklat,Kering,460,Rumah Tangga,Sedang,Pakan Ternak
+922,Sisa makanan,Bulat,Kasar,1,0,Silver,Basah,89,Sekolah,Rendah,Kompos
+923,Kardus bekas,Silinder,Lembek,0,1,Transparan,Basah,98,Restoran,Rendah,Tidak Dapat Diolah
+924,Ban bekas,Tidak beraturan,Halus,0,1,Putih,Basah,243,Industri,Tinggi,Kerajinan
+925,Kardus bekas,Tidak beraturan,Keras,0,1,Coklat,Kering,218,Sekolah,Rendah,Daur Ulang
+926,Tulang ayam,Pipih,Lembek,1,0,Transparan,Basah,332,Industri,Tinggi,Biogas
+927,Paku berkarat,Silinder,Keras,0,1,Merah,Basah,402,Pertanian,Rendah,Daur Ulang
+928,Tulang ayam,Tidak beraturan,Kasar,1,0,Coklat,Basah,411,Sekolah,Sedang,Pakan Ternak
+929,Sisa sayuran,Kotak,Kasar,1,0,Transparan,Kering,387,Sekolah,Rendah,Biogas
+930,Ranting pohon,Tidak beraturan,Keras,1,0,Hitam,Basah,346,Pasar,Sedang,Kompos
+931,Daun kering,Pipih,Lembek,1,0,Transparan,Kering,290,Restoran,Sedang,Pakan Ternak
+932,Kardus bekas,Pipih,Lembek,0,1,Silver,Basah,380,Pasar,Sedang,Kerajinan
+933,Kaleng minuman,Silinder,Lembek,0,1,Silver,Basah,439,Rumah Tangga,Tinggi,Kerajinan
+934,Sedotan plastik,Kotak,Kasar,0,1,Merah,Basah,307,Sekolah,Rendah,Tidak Dapat Diolah
+935,Sisa makanan,Bulat,Tajam,1,0,Coklat,Basah,204,Industri,Rendah,Pakan Ternak
+936,Styrofoam bekas makanan,Bulat,Halus,0,1,Silver,Kering,85,Industri,Tinggi,Tidak Dapat Diolah
+937,Kulit mangga,Bulat,Lembek,1,0,Coklat,Basah,215,Restoran,Sedang,Biogas
+938,Kaleng cat,Kotak,Halus,0,1,Merah,Kering,310,Sekolah,Rendah,Daur Ulang
+939,Kaleng cat,Pipih,Kasar,0,1,Hijau,Kering,339,Industri,Tinggi,Tidak Dapat Diolah
+940,Kantong plastik,Silinder,Keras,0,1,Silver,Basah,340,Sekolah,Rendah,Tidak Dapat Diolah
+941,Tulang ayam,Melengkung,Halus,1,0,Silver,Basah,452,Sekolah,Tinggi,Pakan Ternak
+942,Ranting pohon,Pipih,Keras,1,0,Putih,Basah,34,Pertanian,Tinggi,Pakan Ternak
+943,Styrofoam bekas makanan,Silinder,Tajam,0,1,Transparan,Kering,427,Rumah Tangga,Tinggi,Daur Ulang
+944,Kaleng cat,Pipih,Halus,0,1,Transparan,Kering,449,Pasar,Rendah,Tidak Dapat Diolah
+945,Sisa makanan,Pipih,Keras,1,0,Merah,Kering,195,Industri,Sedang,Kompos
+946,Styrofoam bekas makanan,Kotak,Keras,0,1,Hijau,Kering,134,Pertanian,Sedang,Daur Ulang
+947,Ranting pohon,Pipih,Halus,1,0,Transparan,Basah,442,Industri,Tinggi,Kompos
+948,Sisa buah,Silinder,Kasar,1,0,Putih,Kering,325,Rumah Tangga,Rendah,Pakan Ternak
+949,Kulit mangga,Melengkung,Halus,1,0,Merah,Basah,427,Pertanian,Rendah,Biogas
+950,Daun kering,Kotak,Halus,1,0,Coklat,Basah,395,Industri,Rendah,Pakan Ternak
+951,Ban bekas,Pipih,Tajam,0,1,Kuning,Kering,82,Pasar,Tinggi,Tidak Dapat Diolah
+952,Kaleng minuman,Silinder,Halus,0,1,Hijau,Kering,218,Rumah Tangga,Tinggi,Daur Ulang
+953,Kulit mangga,Tidak beraturan,Kasar,1,0,Putih,Basah,196,Industri,Rendah,Pakan Ternak
+954,Ranting pohon,Tidak beraturan,Lembek,1,0,Hijau,Kering,399,Rumah Tangga,Tinggi,Pakan Ternak
+955,Sisa buah,Kotak,Halus,1,0,Putih,Kering,126,Pasar,Sedang,Pakan Ternak
+956,Ban bekas,Bulat,Kasar,0,1,Coklat,Basah,432,Pertanian,Sedang,Daur Ulang
+957,Kulit bawang,Silinder,Keras,1,0,Transparan,Kering,254,Industri,Sedang,Kompos
+958,Kantong plastik,Pipih,Tajam,0,1,Hijau,Basah,266,Pasar,Sedang,Tidak Dapat Diolah
+959,Sisa makanan,Melengkung,Lembek,1,0,Kuning,Kering,122,Pasar,Tinggi,Pakan Ternak
+960,Kulit bawang,Bulat,Tajam,1,0,Transparan,Basah,392,Industri,Rendah,Kompos
+961,Sisa makanan,Silinder,Lembek,1,0,Putih,Basah,415,Rumah Tangga,Sedang,Biogas
+962,Kaleng cat,Tidak beraturan,Keras,0,1,Putih,Kering,322,Pertanian,Rendah,Tidak Dapat Diolah
+963,Rumput,Kotak,Lembek,1,0,Silver,Basah,372,Pasar,Rendah,Kompos
+964,Sisa buah,Melengkung,Kasar,1,0,Transparan,Kering,240,Restoran,Sedang,Pakan Ternak
+965,Kaca pecah,Tidak beraturan,Lembek,0,1,Silver,Kering,23,Sekolah,Tinggi,Daur Ulang
+966,Ban bekas,Pipih,Halus,0,1,Silver,Kering,220,Sekolah,Rendah,Kerajinan
+967,Ranting pohon,Tidak beraturan,Lembek,1,0,Silver,Basah,89,Sekolah,Rendah,Biogas
+968,Styrofoam bekas makanan,Pipih,Keras,0,1,Hijau,Kering,278,Industri,Sedang,Daur Ulang
+969,Sisa sayuran,Tidak beraturan,Lembek,1,0,Merah,Kering,488,Rumah Tangga,Rendah,Pakan Ternak
+970,Styrofoam bekas makanan,Melengkung,Tajam,0,1,Kuning,Kering,45,Industri,Rendah,Tidak Dapat Diolah
+971,Paku berkarat,Silinder,Keras,0,1,Silver,Kering,298,Industri,Tinggi,Daur Ulang
+972,Kantong plastik,Melengkung,Lembek,0,1,Coklat,Basah,415,Restoran,Tinggi,Kerajinan
+973,Paku berkarat,Pipih,Keras,0,1,Kuning,Kering,399,Pasar,Rendah,Tidak Dapat Diolah
+974,Kardus bekas,Melengkung,Kasar,0,1,Silver,Basah,346,Rumah Tangga,Sedang,Daur Ulang
+975,Sisa buah,Bulat,Tajam,1,0,Coklat,Kering,185,Sekolah,Tinggi,Pakan Ternak
+976,Kulit mangga,Pipih,Keras,1,0,Coklat,Basah,226,Restoran,Sedang,Pakan Ternak
+977,Styrofoam bekas makanan,Pipih,Lembek,0,1,Transparan,Basah,240,Restoran,Sedang,Tidak Dapat Diolah
+978,Ban bekas,Tidak beraturan,Lembek,0,1,Hijau,Basah,16,Pasar,Sedang,Tidak Dapat Diolah
+979,Styrofoam bekas makanan,Kotak,Halus,0,1,Kuning,Kering,372,Rumah Tangga,Tinggi,Daur Ulang
+980,Daun kering,Pipih,Tajam,1,0,Coklat,Basah,371,Pasar,Tinggi,Pakan Ternak
+981,Kulit pisang,Pipih,Halus,1,0,Putih,Kering,141,Sekolah,Sedang,Pakan Ternak
+982,Botol plastik,Silinder,Halus,0,1,Putih,Basah,236,Rumah Tangga,Sedang,Daur Ulang
+983,Kulit mangga,Pipih,Tajam,1,0,Transparan,Kering,342,Pasar,Rendah,Kompos
+984,Rumput,Silinder,Keras,1,0,Merah,Basah,213,Pasar,Rendah,Kompos
+985,Ranting pohon,Silinder,Halus,1,0,Silver,Basah,149,Restoran,Tinggi,Kompos
+986,Sedotan plastik,Tidak beraturan,Keras,0,1,Silver,Kering,273,Pertanian,Tinggi,Kerajinan
+987,Tulang ayam,Bulat,Keras,1,0,Transparan,Basah,135,Restoran,Tinggi,Kompos
+988,Paku berkarat,Melengkung,Tajam,0,1,Transparan,Basah,276,Sekolah,Rendah,Daur Ulang
+989,Tulang ayam,Bulat,Tajam,1,0,Transparan,Basah,198,Pasar,Tinggi,Kompos
+990,Kardus bekas,Melengkung,Kasar,0,1,Hitam,Kering,91,Pertanian,Rendah,Kerajinan
+991,Kulit mangga,Melengkung,Kasar,1,0,Coklat,Basah,426,Rumah Tangga,Rendah,Pakan Ternak
+992,Tulang ayam,Bulat,Tajam,1,0,Hitam,Kering,150,Industri,Rendah,Biogas
+993,Sedotan plastik,Kotak,Keras,0,1,Silver,Basah,354,Sekolah,Sedang,Kerajinan
+994,Kardus bekas,Bulat,Halus,0,1,Coklat,Basah,313,Restoran,Rendah,Kerajinan
+995,Rumput,Kotak,Kasar,1,0,Putih,Basah,447,Pertanian,Sedang,Biogas
+996,Kulit mangga,Melengkung,Tajam,1,0,Transparan,Basah,172,Sekolah,Rendah,Biogas
+997,Kulit pisang,Kotak,Kasar,1,0,Hijau,Basah,222,Rumah Tangga,Sedang,Pakan Ternak
+998,Sisa buah,Pipih,Kasar,1,0,Hitam,Kering,229,Sekolah,Rendah,Biogas
+999,Sisa buah,Tidak beraturan,Keras,1,0,Hijau,Kering,154,Pertanian,Sedang,Kompos
+1000,Botol plastik,Melengkung,Tajam,0,1,Hijau,Basah,454,Pertanian,Rendah,Kerajinan
