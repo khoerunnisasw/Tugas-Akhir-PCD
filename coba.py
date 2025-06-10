@@ -1,202 +1,115 @@
-import sys
+import os
 import cv2
+import csv
 import numpy as np
-from PyQt5.QtWidgets import (
-    QApplication, QWidget, QLabel, QPushButton, QGridLayout, QFileDialog,
-    QMessageBox, QFrame, QScrollArea
-)
-from PyQt5.QtGui import QPixmap, QFont
-from PyQt5.QtCore import Qt
-from skimage.feature import graycomatrix, graycoprops
+from sklearn.model_selection import train_test_split
+from sklearn.svm import SVC
+from sklearn.metrics import classification_report
+from skimage.feature import local_binary_pattern, graycomatrix, graycoprops
+
+# --- Ekstraksi Fitur ---
+
+def ekstrak_hsv_mean(image):
+    hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
+    return cv2.mean(hsv)[:3]
+
+def ekstrak_histogram_warna(image, bins=16):
+    hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
+    hist = cv2.calcHist([hsv], [0, 1, 2], None, [bins]*3, [0, 180, 0, 256, 0, 256])
+    return cv2.normalize(hist, hist).flatten()
+
+def ekstrak_bentuk(image):
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    _, thresh = cv2.threshold(gray, 60, 255, cv2.THRESH_BINARY)
+    contours, _ = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+    if len(contours) == 0:
+        return np.zeros(8)
+    c = max(contours, key=cv2.contourArea)
+    hu = cv2.HuMoments(cv2.moments(c)).flatten()
+    x, y, w, h = cv2.boundingRect(c)
+    aspect_ratio = w / h if h != 0 else 0
+    return np.append(hu, aspect_ratio)
+
+def ekstrak_lbp(image):
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    lbp = local_binary_pattern(gray, 8, 1, method='uniform')
+    hist, _ = np.histogram(lbp.ravel(), bins=np.arange(0, 11), density=True)
+    return hist
+
+def ekstrak_glcm(image):
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    glcm = graycomatrix(gray, [1], [0], 256, symmetric=True, normed=True)
+    contrast = graycoprops(glcm, 'contrast')[0, 0]
+    correlation = graycoprops(glcm, 'correlation')[0, 0]
+    energy = graycoprops(glcm, 'energy')[0, 0]
+    homogeneity = graycoprops(glcm, 'homogeneity')[0, 0]
+    return np.array([contrast, correlation, energy, homogeneity])
+
+def ekstraksi_fitur(image):
+    fitur_warna = np.concatenate((ekstrak_hsv_mean(image), ekstrak_histogram_warna(image)))
+    fitur_bentuk = ekstrak_bentuk(image)
+    fitur_lbp = ekstrak_lbp(image)
+    fitur_glcm = ekstrak_glcm(image)
+    return np.concatenate((fitur_warna, fitur_bentuk, fitur_lbp, fitur_glcm))
 
 
-class SampahClassifier(QWidget):
-    def __init__(self):
-        super().__init__()
-        self.setWindowTitle("Klasifikasi Sampah - Warna, Bentuk, Tekstur")
-        # Meningkatkan ukuran jendela utama untuk memberi ruang lebih
-        self.setGeometry(100, 100, 850, 600) # Perbesar lebar dan tinggi
-        self.setStyleSheet("background-color: #f5f7fa;")
+# --- Load Dataset ---
 
-        # Label untuk menampilkan gambar
-        self.label_gambar = QLabel("Belum ada gambar")
-        self.label_gambar.setAlignment(Qt.AlignCenter)
-        self.label_gambar.setFixedSize(400, 400) # Perbesar sedikit ukuran gambar
-        self.label_gambar.setStyleSheet(
-            "background-color: white; border: 2px solid #ccc; border-radius: 10px; font-size: 16px; color: #888;"
-        )
-
-        # Tombol pilih gambar
-        self.btn_pilih = QPushButton("Pilih Gambar")
-        self.btn_pilih.setFixedHeight(40)
-        self.btn_pilih.setStyleSheet("""
-            QPushButton {
-                background-color: #007ACC;
-                color: white;
-                font-weight: bold;
-                font-size: 16px;
-                border-radius: 8px;
-                padding: 8px;
-            }
-            QPushButton:hover {
-                background-color: #005F9E;
-            }
-        """)
-        self.btn_pilih.clicked.connect(self.pilih_gambar)
-
-        # Label fitur dengan scroll area agar bisa scroll jika banyak teks
-        self.label_fitur = QLabel("")
-        self.label_fitur.setFont(QFont("Consolas", 11))
-        self.label_fitur.setStyleSheet("color: #333; padding: 8px;")
-        self.label_fitur.setAlignment(Qt.AlignTop | Qt.AlignLeft)
-        self.label_fitur.setWordWrap(True)
-
-        self.scroll_fitur = QScrollArea()
-        self.scroll_fitur.setWidgetResizable(True)
-        self.scroll_fitur.setWidget(self.label_fitur)
-        self.scroll_fitur.setFixedHeight(220) # Sesuaikan tinggi scroll area
-        self.scroll_fitur.setStyleSheet(
-            "background: white; border: 1px solid #ccc; border-radius: 8px;"
-        )
-
-        # Label hasil klasifikasi
-        self.label_hasil = QLabel("Hasil klasifikasi ")
-        self.label_hasil.setFont(QFont("Arial", 20, QFont.Bold)) # Perbesar ukuran font
-        self.label_hasil.setStyleSheet("color: #004080;")
-        self.label_hasil.setAlignment(Qt.AlignCenter)
-        self.label_hasil.setWordWrap(True)
-        self.label_hasil.setFixedHeight(150) # Perbesar tinggi kotak klasifikasi
-        self.label_hasil.setFrameShape(QFrame.Panel)
-        self.label_hasil.setFrameShadow(QFrame.Raised)
-        self.label_hasil.setLineWidth(2)
-        self.label_hasil.setStyleSheet("background-color: #e8f0fe; color: #004080; border-radius: 10px;")
+def load_dataset(folder_path):
+    data, labels, paths = [], [], []
+    for label in os.listdir(folder_path):
+        label_folder = os.path.join(folder_path, label)
+        if not os.path.isdir(label_folder):
+            continue
+        for file in os.listdir(label_folder):
+            file_path = os.path.join(label_folder, file)
+            img = cv2.imread(file_path)
+            if img is None:
+                continue
+            fitur = ekstraksi_fitur(img)
+            data.append(fitur)
+            labels.append(label)
+            paths.append(file_path)
+    return np.array(data), np.array(labels), np.array(paths)
 
 
-        # Layout grid untuk atur posisi
-        layout = QGridLayout()
-        layout.setContentsMargins(30, 30, 30, 30)
-        layout.setHorizontalSpacing(25)
-        layout.setVerticalSpacing(15)
+# --- Klasifikasi ---
 
-        # Atur posisi widget di grid
-        # Mengubah row span label_gambar dari 3 menjadi 4 untuk mengakomodasi tinggi baru
-        layout.addWidget(self.label_gambar, 0, 0, 4, 1, alignment=Qt.AlignCenter)
-        layout.addWidget(self.btn_pilih, 4, 0, alignment=Qt.AlignCenter) # Sesuaikan baris untuk tombol
+def klasifikasi_sampah():
+    print("Memuat dataset...")
+    X, y, paths = load_dataset("dataset")  # Folder: dataset/organik/, dataset/anorganik/
 
-        layout.addWidget(self.scroll_fitur, 0, 1, 2, 1) # Tetap di baris 0, span 2 baris
-        layout.addWidget(self.label_hasil, 2, 1, 3, 1) # Dimulai dari baris 2, span 3 baris untuk memberi ruang lebih
+    print("Membagi data latih dan uji...")
+    X_train, X_test, y_train, y_test, paths_train, paths_test = train_test_split(
+        X, y, paths, test_size=0.2, random_state=42
+    )
 
-        # Menambahkan stretch untuk baris dan kolom agar layout lebih fleksibel
-        layout.setRowStretch(0, 1)
-        layout.setRowStretch(1, 1)
-        layout.setRowStretch(2, 1)
-        layout.setRowStretch(3, 1)
-        layout.setColumnStretch(0, 1)
-        layout.setColumnStretch(1, 1)
+    print("Melatih model SVM...")
+    model = SVC(kernel='linear')
+    model.fit(X_train, y_train)
 
-        self.setLayout(layout)
+    print("\nEvaluasi pada data uji:")
+    y_pred = model.predict(X_test)
+    print(classification_report(y_test, y_pred))
 
-    def pilih_gambar(self):
-        path, _ = QFileDialog.getOpenFileName(self, "Pilih Gambar", "", "Images (*.png *.jpg *.jpeg)")
-        if path:
-            try:
-                self.tampilkan_gambar(path)
-                fitur = self.ekstrak_fitur(path)
-                hasil = self.klasifikasi(fitur)
-                self.tampilkan_hasil(fitur, hasil)
-            except Exception as e:
-                QMessageBox.warning(self, "Error", f"Gagal memproses gambar:\n{e}")
+    print("\n=== Prediksi Seluruh Gambar di Dataset ===")
+    hasil_klasifikasi = []
+    for path, fitur, label_asli in zip(paths, X, y):
+        pred = model.predict([fitur])[0]
+        nama_file = os.path.basename(path)
+        hasil_klasifikasi.append((nama_file, label_asli, pred))
+        print(f"File: {nama_file}\tLabel Asli: {label_asli}\tPrediksi: {pred}")
 
-    def tampilkan_gambar(self, path):
-        img = QPixmap(path)
-        img = img.scaled(self.label_gambar.width(), self.label_gambar.height(), Qt.KeepAspectRatio,
-                         Qt.SmoothTransformation)
-        self.label_gambar.setPixmap(img)
-        self.label_gambar.setStyleSheet(
-            "background-color: white; border: 2px solid #007ACC; border-radius: 10px;"
-        )
+    # Simpan ke CSV
+    with open("hasil_klasifikasi.csv", "w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["Nama File", "Label Asli", "Prediksi"])
+        writer.writerows(hasil_klasifikasi)
+    print("\nHasil klasifikasi disimpan di 'hasil_klasifikasi.csv'")
 
-    def ekstrak_fitur(self, path):
-        img = cv2.imread(path)
-        if img is None:
-            raise ValueError("Gambar tidak dapat dibaca")
 
-        img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-
-        # 1. Warna: rata-rata intensitas merah, hijau, biru
-        mean_rgb = np.mean(img_rgb, axis=(0, 1))
-
-        # 2. Bentuk: area kontur terbesar dan circularity
-        _, thresh = cv2.threshold(gray, 200, 255, cv2.THRESH_BINARY_INV)
-        contours, _ = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
-
-        area = 0
-        circularity = 0
-        if contours:
-            cnt = max(contours, key=cv2.contourArea)
-            area = cv2.contourArea(cnt)
-            perimeter = cv2.arcLength(cnt, True)
-            if perimeter > 0:
-                circularity = 4 * np.pi * area / (perimeter ** 2)  # nilai 0-1, 1 = lingkaran sempurna
-
-        # 3. Tekstur: GLCM contrast dan entropy
-        # Pastikan gambar berwarna abu-abu memiliki kedalaman bit yang sesuai untuk GLCM
-        # Misalnya, jika gambar input sudah 8-bit, tidak perlu konversi lagi.
-        # Tapi jika Anda menduga ada masalah, bisa tambahkan:
-        # gray_8bit = cv2.normalize(gray, None, 0, 255, cv2.NORM_MINMAX, cv2.CV_8U)
-        glcm = graycomatrix(gray, [1], [0], levels=256, symmetric=True, normed=True)
-        contrast = graycoprops(glcm, 'contrast')[0, 0]
-        # Untuk entropy, perlu penanganan jika ada nilai 0 di glcm agar log tidak menghasilkan -inf
-        # Sudah ada 1e-10 di log2, jadi ini cukup.
-        entropy = -np.sum(glcm * np.log2(glcm + 1e-10))
-
-        return {
-            'r_mean': mean_rgb[0],
-            'g_mean': mean_rgb[1],
-            'b_mean': mean_rgb[2],
-            'area': area,
-            'circularity': circularity,
-            'contrast': contrast,
-            'entropy': entropy
-        }
-
-    def klasifikasi(self, f):
-        # Klasifikasi berdasarkan urutan: ORGANIK → PLASTIK → KERTAS
-
-        # ORGANIK: area besar + bentuk tidak teratur (circularity rendah)
-        if f['area'] > 10000 and f['circularity'] < 0.2:
-            return "ORGANIK (Area besar & bentuk tidak beraturan)"
-
-        # PLASTIK: tekstur tinggi
-        elif f['contrast'] > 40 and f['entropy'] > 4:
-            return "PLASTIK (Tekstur kompleks)"
-
-        # KERTAS: warna cerah & circularity agak rendah
-        elif (f['r_mean'] > 200 and f['g_mean'] > 200 and f['b_mean'] > 200) and f['circularity'] < 0.6:
-            return "KERTAS (Warna cerah dan bentuk lembaran)"
-
-        # Tidak dikenali
-        else:
-            return "TIDAK DIKETAHUI (Fitur tidak sesuai aturan)"
-
-    def tampilkan_hasil(self, fitur, hasil):
-        fitur_teks = (
-            f"Fitur Ekstraksi:\n"
-            f"- R Mean      : {fitur['r_mean']:.2f}\n"
-            f"- G Mean      : {fitur['g_mean']:.2f}\n"
-            f"- B Mean      : {fitur['b_mean']:.2f}\n"
-            f"- Area        : {fitur['area']:.2f}\n"
-            f"- Circularity : {fitur['circularity']:.3f}\n"
-            f"- Contrast    : {fitur['contrast']:.2f}\n"
-            f"- Entropy     : {fitur['entropy']:.2f}"
-        )
-        self.label_fitur.setText(fitur_teks)
-        self.label_hasil.setText(f"Hasil Klasifikasi:\n<b>{hasil}</b>")
-
+# --- Main ---
 
 if __name__ == "__main__":
-    app = QApplication(sys.argv)
-    window = SampahClassifier()
-    window.show()
-    sys.exit(app.exec_())
+    print("=== Klasifikasi Sampah Berbasis Warna, Bentuk, dan Tekstur ===")
+    klasifikasi_sampah()

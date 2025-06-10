@@ -1,0 +1,8 @@
+contrast,entropy,lbp_0,lbp_1,lbp_2,lbp_3,lbp_4,lbp_5,lbp_6,lbp_7,lbp_8,lbp_9,path,kategori
+8.75,4.54,0.00412,0.01237,0.00694,0.03906,0.07711,0.0968,0.0239,0.0204,0.70129,0.01801,D:/Kuliah/semester 4/Praktikum/Pengolahan Citra Digital/TUBES UAS/Tugas-Akhir-PCD-main/organik-pcd.jpg,Organik
+8.75,4.54,0.00412,0.01237,0.00694,0.03906,0.07711,0.0968,0.0239,0.0204,0.70129,0.01801,D:/Kuliah/semester 4/Praktikum/Pengolahan Citra Digital/TUBES UAS/Tugas-Akhir-PCD-main/organik-pcd.jpg,Organik
+8.75,4.54,0.00412,0.01237,0.00694,0.03906,0.07711,0.0968,0.0239,0.0204,0.70129,0.01801,D:/Kuliah/semester 4/Praktikum/Pengolahan Citra Digital/TUBES UAS/Tugas-Akhir-PCD-main/organik-pcd.jpg,Organik
+98.05,10.8,0.04694,0.06598,0.0329,0.0757,0.11957,0.15544,0.06404,0.08357,0.23767,0.11819,D:/Kuliah/semester 4/Praktikum/Pengolahan Citra Digital/TUBES UAS/Tugas-Akhir-PCD-main/dataset-sampah/kaca/cosmetics glass (1).png,Organik
+95.86,11.18,0.04517,0.07221,0.05262,0.11694,0.16396,0.1735,0.09732,0.07803,0.08829,0.11196,D:/Kuliah/semester 4/Praktikum/Pengolahan Citra Digital/TUBES UAS/Tugas-Akhir-PCD-main/dataset-sampah/kertas/kertas (1).jpg,Organik
+95.86,11.18,0.04517,0.07221,0.05262,0.11694,0.16396,0.1735,0.09732,0.07803,0.08829,0.11196,D:/Kuliah/semester 4/Praktikum/Pengolahan Citra Digital/TUBES UAS/Tugas-Akhir-PCD-main/dataset-sampah/kertas/kertas (1).jpg,Organik
+475.89,3.86,0.01872,0.02193,0.00804,0.01468,0.01674,0.04282,0.01233,0.02119,0.80269,0.04086,D:/Kuliah/semester 4/Praktikum/Pengolahan Citra Digital/TUBES UAS/Tugas-Akhir-PCD-main/dataset-sampah/botol plastik/botol (27).png,Anorganik

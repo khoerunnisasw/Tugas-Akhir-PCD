@@ -3,21 +3,18 @@ import os
 import cv2
 import numpy as np
 import csv
+import mahotas
 from PyQt5.QtWidgets import (
-    QApplication, QMainWindow, QLabel, QPushButton, QAction,
-    QFileDialog, QMessageBox, QVBoxLayout, QWidget, QHBoxLayout
+    QApplication, QMainWindow, QLabel, QAction,
+    QFileDialog, QVBoxLayout, QWidget, QHBoxLayout
 )
 from PyQt5.QtGui import QPixmap, QImage
 from PyQt5.QtCore import Qt
-from skimage.feature import graycomatrix, graycoprops
-from skimage.util import img_as_ubyte
-from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
-from matplotlib.figure import Figure
 
 class FiturExtractor(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Ekstraksi Fitur Sampah - Warna, Bentuk, Tekstur")
+        self.setWindowTitle("Ekstraksi Fitur Sampah")
         self.setGeometry(200, 150, 800, 600)
 
         self.labelInput = QLabel("Gambar Asli")
@@ -118,7 +115,7 @@ class FiturExtractor(QMainWindow):
             _, labels, centers = cv2.kmeans(img_reshaped, K, None, criteria, 10, cv2.KMEANS_RANDOM_CENTERS)
             centers = np.uint8(centers)
             segmented_data = centers[labels.flatten()]
-            segmented_image = segmented_data.reshape((img_rgb.shape))
+            segmented_image = segmented_data.reshape((img_rgb.shape)).astype(np.uint8)
 
             # Rata-rata RGB
             r_mean = np.mean(img_rgb[:, :, 0])
@@ -149,6 +146,10 @@ class FiturExtractor(QMainWindow):
             else:
                 kondisi = "Berembun"
 
+            # Konversi segmented image ke grayscale lalu colormap
+            gray_segmented = cv2.cvtColor(segmented_image, cv2.COLOR_RGB2GRAY)
+            thermal_colored = cv2.applyColorMap(gray_segmented, cv2.COLORMAP_JET)
+
             fitur = {
                 'r_mean': round(r_mean, 2),
                 'g_mean': round(g_mean, 2),
@@ -162,7 +163,7 @@ class FiturExtractor(QMainWindow):
                 'k_cmyk': round(k, 2),
                 'kondisi': kondisi,
                 'path': path,
-                'img': cv2.cvtColor(segmented_image, cv2.COLOR_RGB2BGR)
+                'img': thermal_colored  # Gambar dengan tampilan thermal
             }
 
             kategori = self.klasifikasi_warna(fitur)
@@ -233,13 +234,14 @@ class FiturExtractor(QMainWindow):
         if path:
             img = cv2.imread(path)
             gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-            gray_u8 = img_as_ubyte(gray)
-            glcm = graycomatrix(gray_u8, [1], [0], levels=256, symmetric=True, normed=True)
-            contrast = graycoprops(glcm, 'contrast')[0, 0]
-            glcm_vals = glcm[:, :, 0, 0]
-            entropy = -np.sum(glcm_vals * np.log2(glcm_vals + 1e-10))
 
-            # Deteksi kondisi pencahayaan menggunakan komponen Value (V)
+            # Ekstrak fitur Haralick dari mahotas
+            haralick_features = mahotas.features.haralick(gray).mean(axis=0)  # rata-rata dari semua arah
+
+            contrast = haralick_features[1]  # biasanya indeks 1 adalah contrast
+            entropy = haralick_features[8]  # biasanya indeks 8 adalah entropy
+
+            # Deteksi kondisi pencahayaan
             img_hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
             v_mean = np.mean(img_hsv[:, :, 2])
 
